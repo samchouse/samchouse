@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love Minecraft and Brawl Stars
 
 ### Spotify Playing 🎧
-[![Spotify](https://https://novatorem.xenfo.vercel.app/api/spotify)](https://open.spotify.com/user/miplif6eeuybxijfn9qzjc5id)
+[![Spotify](https://spotify-now-playing.xenfo.vercel.app/now-playing)](https://open.spotify.com/user/miplif6eeuybxijfn9qzjc5id)
 
 ### Connect with me:
 [<img align="left" alt="Xenfo#4320" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
