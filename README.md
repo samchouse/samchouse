@@ -1,9 +1,9 @@
-### Hi, I'm Samuel - aka Xenfo
+## Hi, I'm Samuel - aka Xenfo
 
 [![Website](https://img.shields.io/website?label=XenfantStudios.com&style=for-the-badge&url=https%3A%2F%2Fxenfantstudios.com)](https://xenfantstudios.com)
 [![Github Followers](https://img.shields.io/github/followers/XenfoMC?logo=github&style=for-the-badge)](https://github.com/XenfoMC)
 
-## I'm a Student and a Developer!
+### I'm a Student and a Developer!
 
 - 🔭 I’m currently working on a Discord Bot
 - 🌱 I’m currently learning school materials
