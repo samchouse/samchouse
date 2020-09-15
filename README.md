@@ -36,6 +36,12 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#2](https://github.com//XenfoMC/xenfo/issues/2) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
+2. ❗️ Opened issue [#2](https://github.com//XenfoMC/xenfo/issues/2) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
+3. ❌ Closed PR [#1](https://github.com//XenfoMC/xenfo/pull/1) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
+4. 🗣 Commented on [#1](https://github.com//XenfoMC/xenfo/issues/1) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
+5. 💪 Opened PR [#1](https://github.com//XenfoMC/xenfo/pull/1) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
+<!--END_SECTION:activity-->
 
 </details>
 
