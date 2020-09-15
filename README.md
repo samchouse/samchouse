@@ -54,9 +54,17 @@
 </details>
 
 <details>
+  <summary>:zap: Github Development Stats</summary>
+ <!--START_SECTION:waka-->
+    
+<!--END_SECTION:waka-->
+
+</details>
+
+<details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.xenfo.vercel.app//api?username=XenfoMC&show_icons=true&hide_border=true" />
+  <img align="left" alt="Xenfo's Github Stats" src="https://github-readme-stats.xenfo.vercel.app//api?username=XenfoMC&show_icons=true&hide_border=true" />
 
 </details>
 
