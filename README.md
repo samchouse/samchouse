@@ -5,11 +5,12 @@
 
 ### I'm a Student and a Developer!
 
-- 🔭 I’m currently working on a Discord Bot
-- 🌱 I’m currently learning school materials
-- 👯 I’m looking to collaborate with others for interesting projects
-- 🥅 2020 Goals: Finish v1 of my Discord Bot
-- ⚡ Fun fact: I love Minecraft and Brawl Stars
+- 🔭 I’m currently working on CodeRunner
+- 🌱 I’m currently learning Vue JS
+- 👯 I’m looking to collaborate on interesting projects
+- 💬 Ask me about Discord.js
+- 📫 How to reach me chouse.samuel@gmail.com
+- ⚡ Fun fact I used to play the violin
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-now-playing.xenfo.vercel.app/now-playing)](https://open.spotify.com/user/miplif6eeuybxijfn9qzjc5id)
