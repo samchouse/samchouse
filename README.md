@@ -44,11 +44,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#411](https://github.com//theia-ide/theia-apps/issues/411) in [theia-ide/theia-apps](https://github.com//theia-ide/theia-apps)
-2. ❗️ Closed issue [#2](https://github.com//XenfoMC/xenfo/issues/2) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
-3. ❗️ Opened issue [#2](https://github.com//XenfoMC/xenfo/issues/2) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
-4. ❌ Closed PR [#1](https://github.com//XenfoMC/xenfo/pull/1) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
-5. 🗣 Commented on [#1](https://github.com//XenfoMC/xenfo/issues/1) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
+1. 🎉 Merged PR [#1](https://github.com//Xenfo/Dungeon-Bot/pull/1) in [Xenfo/Dungeon-Bot](https://github.com//Xenfo/Dungeon-Bot)
+2. 💪 Opened PR [#1](https://github.com//Xenfo/Dungeon-Bot/pull/1) in [Xenfo/Dungeon-Bot](https://github.com//Xenfo/Dungeon-Bot)
+3. 🗣 Commented on [#411](https://github.com//theia-ide/theia-apps/issues/411) in [theia-ide/theia-apps](https://github.com//theia-ide/theia-apps)
+4. ❗️ Closed issue [#2](https://github.com//XenfoMC/xenfo/issues/2) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
+5. ❗️ Opened issue [#2](https://github.com//XenfoMC/xenfo/issues/2) in [XenfoMC/xenfo](https://github.com//XenfoMC/xenfo)
 <!--END_SECTION:activity-->
 
 </details>
