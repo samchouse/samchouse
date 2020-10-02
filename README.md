@@ -44,11 +44,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/royaleperk/supercell-api/pull/1) in [royaleperk/supercell-api](https://github.com/royaleperk/supercell-api)
-2. 💪 Opened PR [#2120](https://github.com/discord/discord-api-docs/pull/2120) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🎉 Merged PR [#2](https://github.com/Xenfo/Hypixel-Dungeon-Bot/pull/2) in [Xenfo/Hypixel-Dungeon-Bot](https://github.com/Xenfo/Hypixel-Dungeon-Bot)
-4. 💪 Opened PR [#2](https://github.com/Xenfo/Hypixel-Dungeon-Bot/pull/2) in [Xenfo/Hypixel-Dungeon-Bot](https://github.com/Xenfo/Hypixel-Dungeon-Bot)
-5. 🎉 Merged PR [#1](https://github.com/Xenfo/Dungeon-Bot/pull/1) in [Xenfo/Dungeon-Bot](https://github.com/Xenfo/Dungeon-Bot)
+1. 💪 Opened PR [#3](https://github.com/bredmor/simple-discord-js-bot/pull/3) in [bredmor/simple-discord-js-bot](https://github.com/bredmor/simple-discord-js-bot)
+2. 💪 Opened PR [#4](https://github.com/csuvajit/web-login/pull/4) in [csuvajit/web-login](https://github.com/csuvajit/web-login)
+3. 💪 Opened PR [#1](https://github.com/royaleperk/supercell-api/pull/1) in [royaleperk/supercell-api](https://github.com/royaleperk/supercell-api)
+4. 💪 Opened PR [#2120](https://github.com/discord/discord-api-docs/pull/2120) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 🎉 Merged PR [#2](https://github.com/Xenfo/Hypixel-Dungeon-Bot/pull/2) in [Xenfo/Hypixel-Dungeon-Bot](https://github.com/Xenfo/Hypixel-Dungeon-Bot)
 <!--END_SECTION:activity-->
 
 </details>
