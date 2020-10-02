@@ -44,11 +44,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Xenfo/Hypixel-Dungeon-Bot/pull/2) in [Xenfo/Hypixel-Dungeon-Bot](https://github.com/Xenfo/Hypixel-Dungeon-Bot)
-2. 💪 Opened PR [#2](https://github.com/Xenfo/Hypixel-Dungeon-Bot/pull/2) in [Xenfo/Hypixel-Dungeon-Bot](https://github.com/Xenfo/Hypixel-Dungeon-Bot)
-3. 🎉 Merged PR [#1](https://github.com/Xenfo/Dungeon-Bot/pull/1) in [Xenfo/Dungeon-Bot](https://github.com/Xenfo/Dungeon-Bot)
-4. 💪 Opened PR [#1](https://github.com/Xenfo/Dungeon-Bot/pull/1) in [Xenfo/Dungeon-Bot](https://github.com/Xenfo/Dungeon-Bot)
-5. 🗣 Commented on [#411](https://github.com/theia-ide/theia-apps/issues/411) in [theia-ide/theia-apps](https://github.com/theia-ide/theia-apps)
+1. 💪 Opened PR [#2120](https://github.com/discord/discord-api-docs/pull/2120) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🎉 Merged PR [#2](https://github.com/Xenfo/Hypixel-Dungeon-Bot/pull/2) in [Xenfo/Hypixel-Dungeon-Bot](https://github.com/Xenfo/Hypixel-Dungeon-Bot)
+3. 💪 Opened PR [#2](https://github.com/Xenfo/Hypixel-Dungeon-Bot/pull/2) in [Xenfo/Hypixel-Dungeon-Bot](https://github.com/Xenfo/Hypixel-Dungeon-Bot)
+4. 🎉 Merged PR [#1](https://github.com/Xenfo/Dungeon-Bot/pull/1) in [Xenfo/Dungeon-Bot](https://github.com/Xenfo/Dungeon-Bot)
+5. 💪 Opened PR [#1](https://github.com/Xenfo/Dungeon-Bot/pull/1) in [Xenfo/Dungeon-Bot](https://github.com/Xenfo/Dungeon-Bot)
 <!--END_SECTION:activity-->
 
 </details>
