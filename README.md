@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49026](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49026) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 💪 Opened PR [#3](https://github.com/bredmor/simple-discord-js-bot/pull/3) in [bredmor/simple-discord-js-bot](https://github.com/bredmor/simple-discord-js-bot)
-3. 💪 Opened PR [#4](https://github.com/csuvajit/web-login/pull/4) in [csuvajit/web-login](https://github.com/csuvajit/web-login)
-4. 💪 Opened PR [#1](https://github.com/royaleperk/supercell-api/pull/1) in [royaleperk/supercell-api](https://github.com/royaleperk/supercell-api)
-5. 💪 Opened PR [#2120](https://github.com/discord/discord-api-docs/pull/2120) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 🗣 Commented on [#49026](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49026) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 💪 Opened PR [#49026](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49026) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 💪 Opened PR [#3](https://github.com/bredmor/simple-discord-js-bot/pull/3) in [bredmor/simple-discord-js-bot](https://github.com/bredmor/simple-discord-js-bot)
+4. 💪 Opened PR [#4](https://github.com/csuvajit/web-login/pull/4) in [csuvajit/web-login](https://github.com/csuvajit/web-login)
+5. 💪 Opened PR [#1](https://github.com/royaleperk/supercell-api/pull/1) in [royaleperk/supercell-api](https://github.com/royaleperk/supercell-api)
 <!--END_SECTION:activity-->
 
 </details>
