@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49070](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49070) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 🗣 Commented on [#49026](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49026) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. 💪 Opened PR [#1](https://github.com/Xenfo/DefinitelyTyped/pull/1) in [Xenfo/DefinitelyTyped](https://github.com/Xenfo/DefinitelyTyped)
+2. 💪 Opened PR [#49070](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49070) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 3. 🗣 Commented on [#49026](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49026) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 💪 Opened PR [#49026](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49026) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 💪 Opened PR [#3](https://github.com/bredmor/simple-discord-js-bot/pull/3) in [bredmor/simple-discord-js-bot](https://github.com/bredmor/simple-discord-js-bot)
+4. 🗣 Commented on [#49026](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49026) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 💪 Opened PR [#49026](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49026) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 </details>
