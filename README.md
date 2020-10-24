@@ -2,7 +2,7 @@
 
 ## Hi, I'm Samuel - aka Xenfo
 
-[![Website](https://img.shields.io/website?label=XenfantStudios.com&style=for-the-badge&url=https%3A%2F%2Fxenfantstudios.com)](https://xenfo.net)
+[![Website](https://img.shields.io/website?label=xenfo.dev&style=for-the-badge&url=https%3A%2F%2Fxenfantstudios.com)](https://xenfo.dev)
 [![Github Followers](https://img.shields.io/github/followers/Xenfo?logo=github&style=for-the-badge)](https://github.com/XenfoMC)
 
 ### I'm a Student and a Developer!
