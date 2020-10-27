@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Xenfo/DefinitelyTyped/pull/1) in [Xenfo/DefinitelyTyped](https://github.com/Xenfo/DefinitelyTyped)
-2. 🗣 Commented on [#49070](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49070) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 💪 Opened PR [#1](https://github.com/Xenfo/DefinitelyTyped/pull/1) in [Xenfo/DefinitelyTyped](https://github.com/Xenfo/DefinitelyTyped)
-4. 💪 Opened PR [#49070](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49070) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 🗣 Commented on [#49026](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49026) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. ❗️ Opened issue [#241](https://github.com/probot/create-probot-app/issues/241) in [probot/create-probot-app](https://github.com/probot/create-probot-app)
+2. 🎉 Merged PR [#1](https://github.com/Xenfo/DefinitelyTyped/pull/1) in [Xenfo/DefinitelyTyped](https://github.com/Xenfo/DefinitelyTyped)
+3. 🗣 Commented on [#49070](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49070) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 💪 Opened PR [#1](https://github.com/Xenfo/DefinitelyTyped/pull/1) in [Xenfo/DefinitelyTyped](https://github.com/Xenfo/DefinitelyTyped)
+5. 💪 Opened PR [#49070](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49070) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 </details>
