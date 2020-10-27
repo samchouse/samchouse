@@ -52,10 +52,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Xenfo/maintainer-bot/pull/4) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-2. 🎉 Merged PR [#1](https://github.com/Xenfo/maintainer-bot/pull/1) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-3. 🗣 Commented on [#241](https://github.com/probot/create-probot-app/issues/241) in [probot/create-probot-app](https://github.com/probot/create-probot-app)
-4. 💪 Opened PR [#242](https://github.com/probot/create-probot-app/pull/242) in [probot/create-probot-app](https://github.com/probot/create-probot-app)
+1. ❌ Closed PR [#2](https://github.com/Xenfo/maintainer-bot/pull/2) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. ❌ Closed PR [#3](https://github.com/Xenfo/maintainer-bot/pull/3) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🎉 Merged PR [#4](https://github.com/Xenfo/maintainer-bot/pull/4) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🎉 Merged PR [#1](https://github.com/Xenfo/maintainer-bot/pull/1) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 5. 🗣 Commented on [#241](https://github.com/probot/create-probot-app/issues/241) in [probot/create-probot-app](https://github.com/probot/create-probot-app)
 <!--END_SECTION:activity-->
 
