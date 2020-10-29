@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/Xenfo/maintainer-bot/issues/17) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. 🗣 Commented on [#49219](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49219) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 2. 🗣 Commented on [#17](https://github.com/Xenfo/maintainer-bot/issues/17) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 3. 🗣 Commented on [#17](https://github.com/Xenfo/maintainer-bot/issues/17) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 4. 🗣 Commented on [#17](https://github.com/Xenfo/maintainer-bot/issues/17) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-5. 💪 Opened PR [#17](https://github.com/Xenfo/maintainer-bot/pull/17) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🗣 Commented on [#17](https://github.com/Xenfo/maintainer-bot/issues/17) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
