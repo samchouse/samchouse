@@ -54,9 +54,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/Xenfo/maintainer-bot/issues/16) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 2. 🗣 Commented on [#16](https://github.com/Xenfo/maintainer-bot/issues/16) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-3. 🗣 Commented on [#17](https://github.com/Xenfo/maintainer-bot/issues/17) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. 🎉 Merged PR [#9](https://github.com/Xenfo/maintainer-bot/pull/9) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-5. 🎉 Merged PR [#7](https://github.com/Xenfo/maintainer-bot/pull/7) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🗣 Commented on [#16](https://github.com/Xenfo/maintainer-bot/issues/16) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🗣 Commented on [#17](https://github.com/Xenfo/maintainer-bot/issues/17) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🎉 Merged PR [#9](https://github.com/Xenfo/maintainer-bot/pull/9) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
