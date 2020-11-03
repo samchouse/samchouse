@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/Xenfo/maintainer-bot/issues/24) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-2. ❗️ Opened issue [#24](https://github.com/Xenfo/maintainer-bot/issues/24) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-3. 🗣 Commented on [#16](https://github.com/Xenfo/maintainer-bot/issues/16) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. 🗣 Commented on [#16](https://github.com/Xenfo/maintainer-bot/issues/16) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-5. 🗣 Commented on [#16](https://github.com/Xenfo/maintainer-bot/issues/16) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. 🎉 Merged PR [#21](https://github.com/Xenfo/maintainer-bot/pull/21) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. 🗣 Commented on [#21](https://github.com/Xenfo/maintainer-bot/issues/21) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🎉 Merged PR [#22](https://github.com/Xenfo/maintainer-bot/pull/22) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🎉 Merged PR [#23](https://github.com/Xenfo/maintainer-bot/pull/23) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🗣 Commented on [#23](https://github.com/Xenfo/maintainer-bot/issues/23) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
