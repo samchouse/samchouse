@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1859](https://github.com/checkra1n/BugTracker/issues/1859) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-2. 🗣 Commented on [#1859](https://github.com/checkra1n/BugTracker/issues/1859) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-3. ❗️ Opened issue [#7072](https://github.com/balderdashy/sails/issues/7072) in [balderdashy/sails](https://github.com/balderdashy/sails)
-4. ❗️ Closed issue [#1820](https://github.com/checkra1n/BugTracker/issues/1820) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-5. 🗣 Commented on [#1820](https://github.com/checkra1n/BugTracker/issues/1820) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+1. ❗️ Reopened issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. 🗣 Commented on [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. ❗️ Closed issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. ❗️ Opened issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🗣 Commented on [#1859](https://github.com/checkra1n/BugTracker/issues/1859) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
 <!--END_SECTION:activity-->
 
 </details>
