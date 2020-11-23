@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1799](https://github.com/remy/nodemon/issues/1799) in [remy/nodemon](https://github.com/remy/nodemon)
+1. ❗️ Closed issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 2. ❗️ Reopened issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 3. ❗️ Closed issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. ❗️ Opened issue [#1799](https://github.com/remy/nodemon/issues/1799) in [remy/nodemon](https://github.com/remy/nodemon)
-5. ❗️ Reopened issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. ❗️ Reopened issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. ❗️ Closed issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
