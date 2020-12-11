@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Greg0109/BoardyServer/issues/9) in [Greg0109/BoardyServer](https://github.com/Greg0109/BoardyServer)
-2. ❗️ Opened issue [#9](https://github.com/Greg0109/BoardyServer/issues/9) in [Greg0109/BoardyServer](https://github.com/Greg0109/BoardyServer)
-3. ❗️ Closed issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. ❗️ Reopened issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-5. ❗️ Closed issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. ❗️ Opened issue [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+2. 🗣 Commented on [#9](https://github.com/Greg0109/BoardyServer/issues/9) in [Greg0109/BoardyServer](https://github.com/Greg0109/BoardyServer)
+3. ❗️ Opened issue [#9](https://github.com/Greg0109/BoardyServer/issues/9) in [Greg0109/BoardyServer](https://github.com/Greg0109/BoardyServer)
+4. ❗️ Closed issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. ❗️ Reopened issue [#46](https://github.com/Xenfo/maintainer-bot/issues/46) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
