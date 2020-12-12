@@ -53,10 +53,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-2. ❗️ Reopened issue [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-3. ❗️ Closed issue [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-4. 🗣 Commented on [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-5. ❗️ Opened issue [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+2. 🗣 Commented on [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+3. ❗️ Reopened issue [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+4. ❗️ Closed issue [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+5. 🗣 Commented on [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
 <!--END_SECTION:activity-->
 
 </details>
