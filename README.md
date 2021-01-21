@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#357](https://github.com/magmafoundation/Magma/issues/357) in [magmafoundation/Magma](https://github.com/magmafoundation/Magma)
-2. 🗣 Commented on [#7072](https://github.com/balderdashy/sails/issues/7072) in [balderdashy/sails](https://github.com/balderdashy/sails)
-3. 🗣 Commented on [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-4. 🗣 Commented on [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-5. ❗️ Reopened issue [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+1. ❗️ Closed issue [#357](https://github.com/magmafoundation/Magma/issues/357) in [magmafoundation/Magma](https://github.com/magmafoundation/Magma)
+2. 🗣 Commented on [#357](https://github.com/magmafoundation/Magma/issues/357) in [magmafoundation/Magma](https://github.com/magmafoundation/Magma)
+3. ❗️ Opened issue [#357](https://github.com/magmafoundation/Magma/issues/357) in [magmafoundation/Magma](https://github.com/magmafoundation/Magma)
+4. 🗣 Commented on [#7072](https://github.com/balderdashy/sails/issues/7072) in [balderdashy/sails](https://github.com/balderdashy/sails)
+5. 🗣 Commented on [#1888](https://github.com/checkra1n/BugTracker/issues/1888) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
 <!--END_SECTION:activity-->
 
 </details>
