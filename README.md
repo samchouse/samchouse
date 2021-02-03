@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2667](https://github.com/cdr/code-server/issues/2667) in [cdr/code-server](https://github.com/cdr/code-server)
-2. ❗️ Closed issue [#66](https://github.com/TannerReynolds/ShareX-Upload-Server/issues/66) in [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server)
-3. ❗️ Opened issue [#2667](https://github.com/cdr/code-server/issues/2667) in [cdr/code-server](https://github.com/cdr/code-server)
-4. ❗️ Closed issue [#2662](https://github.com/cdr/code-server/issues/2662) in [cdr/code-server](https://github.com/cdr/code-server)
-5. 🗣 Commented on [#2662](https://github.com/cdr/code-server/issues/2662) in [cdr/code-server](https://github.com/cdr/code-server)
+1. 🗣 Commented on [#1981](https://github.com/checkra1n/BugTracker/issues/1981) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+2. ❗️ Reopened issue [#1981](https://github.com/checkra1n/BugTracker/issues/1981) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+3. ❗️ Closed issue [#1981](https://github.com/checkra1n/BugTracker/issues/1981) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+4. 🗣 Commented on [#1981](https://github.com/checkra1n/BugTracker/issues/1981) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+5. 🗣 Commented on [#2667](https://github.com/cdr/code-server/issues/2667) in [cdr/code-server](https://github.com/cdr/code-server)
 <!--END_SECTION:activity-->
 
 </details>
