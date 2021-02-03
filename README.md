@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1981](https://github.com/checkra1n/BugTracker/issues/1981) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-2. ❗️ Opened issue [#66](https://github.com/TannerReynolds/ShareX-Upload-Server/issues/66) in [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server)
-3. ❗️ Closed issue [#357](https://github.com/magmafoundation/Magma/issues/357) in [magmafoundation/Magma](https://github.com/magmafoundation/Magma)
-4. 🗣 Commented on [#357](https://github.com/magmafoundation/Magma/issues/357) in [magmafoundation/Magma](https://github.com/magmafoundation/Magma)
-5. ❗️ Opened issue [#357](https://github.com/magmafoundation/Magma/issues/357) in [magmafoundation/Magma](https://github.com/magmafoundation/Magma)
+1. ❗️ Opened issue [#2662](https://github.com/cdr/code-server/issues/2662) in [cdr/code-server](https://github.com/cdr/code-server)
+2. ❗️ Opened issue [#1981](https://github.com/checkra1n/BugTracker/issues/1981) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+3. ❗️ Opened issue [#66](https://github.com/TannerReynolds/ShareX-Upload-Server/issues/66) in [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server)
+4. ❗️ Closed issue [#357](https://github.com/magmafoundation/Magma/issues/357) in [magmafoundation/Magma](https://github.com/magmafoundation/Magma)
+5. 🗣 Commented on [#357](https://github.com/magmafoundation/Magma/issues/357) in [magmafoundation/Magma](https://github.com/magmafoundation/Magma)
 <!--END_SECTION:activity-->
 
 </details>
