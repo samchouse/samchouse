@@ -7,8 +7,8 @@
 
 ### I'm a Student and a Developer!
 
-- 🔭 I’m currently working on CodeRunner
-- 🌱 I’m currently learning Vue JS
+- 🔭 I’m currently working on Minecraft Java Plugins
+- 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about Discord.js
 - 📫 How to reach me chouse.samuel@gmail.com
