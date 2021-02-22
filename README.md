@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51382](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51382) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. ❗️ Closed issue [#27](https://github.com/strapi/strapi-starter-next-blog/issues/27) in [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog)
 2. 🗣 Commented on [#27](https://github.com/strapi/strapi-starter-next-blog/issues/27) in [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog)
-3. ❗️ Opened issue [#27](https://github.com/strapi/strapi-starter-next-blog/issues/27) in [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog)
-4. ❗️ Closed issue [#2667](https://github.com/cdr/code-server/issues/2667) in [cdr/code-server](https://github.com/cdr/code-server)
-5. 🗣 Commented on [#2667](https://github.com/cdr/code-server/issues/2667) in [cdr/code-server](https://github.com/cdr/code-server)
+3. 💪 Opened PR [#51382](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51382) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 🗣 Commented on [#27](https://github.com/strapi/strapi-starter-next-blog/issues/27) in [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog)
+5. ❗️ Opened issue [#27](https://github.com/strapi/strapi-starter-next-blog/issues/27) in [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog)
 <!--END_SECTION:activity-->
 
 </details>
