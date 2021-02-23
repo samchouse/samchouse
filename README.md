@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#127](https://github.com/Xenfo/maintainer-bot/pull/127) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-2. 🎉 Merged PR [#124](https://github.com/Xenfo/maintainer-bot/pull/124) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-3. 🎉 Merged PR [#126](https://github.com/Xenfo/maintainer-bot/pull/126) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. 💪 Opened PR [#126](https://github.com/Xenfo/maintainer-bot/pull/126) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-5. 🎉 Merged PR [#125](https://github.com/Xenfo/maintainer-bot/pull/125) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. 🎉 Merged PR [#127](https://github.com/Xenfo/maintainer-bot/pull/127) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. 💪 Opened PR [#127](https://github.com/Xenfo/maintainer-bot/pull/127) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🎉 Merged PR [#124](https://github.com/Xenfo/maintainer-bot/pull/124) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🎉 Merged PR [#126](https://github.com/Xenfo/maintainer-bot/pull/126) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 💪 Opened PR [#126](https://github.com/Xenfo/maintainer-bot/pull/126) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
