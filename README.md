@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#27](https://github.com/strapi/strapi-starter-next-blog/issues/27) in [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog)
-2. 🗣 Commented on [#27](https://github.com/strapi/strapi-starter-next-blog/issues/27) in [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog)
-3. 💪 Opened PR [#51382](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51382) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 🗣 Commented on [#27](https://github.com/strapi/strapi-starter-next-blog/issues/27) in [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog)
-5. ❗️ Opened issue [#27](https://github.com/strapi/strapi-starter-next-blog/issues/27) in [strapi/strapi-starter-next-blog](https://github.com/strapi/strapi-starter-next-blog)
+1. 💪 Opened PR [#127](https://github.com/Xenfo/maintainer-bot/pull/127) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. 🎉 Merged PR [#124](https://github.com/Xenfo/maintainer-bot/pull/124) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🎉 Merged PR [#126](https://github.com/Xenfo/maintainer-bot/pull/126) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 💪 Opened PR [#126](https://github.com/Xenfo/maintainer-bot/pull/126) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🎉 Merged PR [#125](https://github.com/Xenfo/maintainer-bot/pull/125) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
