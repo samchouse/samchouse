@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
-3. ❗️ Opened issue [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#14330](https://github.com/flutter/flutter/issues/14330) in [flutter/flutter](https://github.com/flutter/flutter)
-5. 🗣 Commented on [#14330](https://github.com/flutter/flutter/issues/14330) in [flutter/flutter](https://github.com/flutter/flutter)
+1. 🎉 Merged PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
+2. 💪 Opened PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
+3. ❗️ Closed issue [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
+5. ❗️ Opened issue [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 </details>
