@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
-2. 💪 Opened PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
-3. ❗️ Closed issue [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
-5. ❗️ Opened issue [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
+1. ❗️ Opened issue [#966](https://github.com/PKief/vscode-material-icon-theme/issues/966) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+2. 🎉 Merged PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
+3. 💪 Opened PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
+4. ❗️ Closed issue [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 </details>
