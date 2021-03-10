@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1981](https://github.com/checkra1n/BugTracker/issues/1981) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
-2. ❗️ Opened issue [#97](https://github.com/bb010g/betterdiscordctl/issues/97) in [bb010g/betterdiscordctl](https://github.com/bb010g/betterdiscordctl)
-3. ❗️ Opened issue [#966](https://github.com/PKief/vscode-material-icon-theme/issues/966) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-4. 🎉 Merged PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
-5. 💪 Opened PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
+1. 🗣 Commented on [#120](https://github.com/Xenfo/maintainer-bot/issues/120) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. 🗣 Commented on [#145](https://github.com/Xenfo/maintainer-bot/issues/145) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🗣 Commented on [#149](https://github.com/Xenfo/maintainer-bot/issues/149) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🗣 Commented on [#144](https://github.com/Xenfo/maintainer-bot/issues/144) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🗣 Commented on [#137](https://github.com/Xenfo/maintainer-bot/issues/137) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
