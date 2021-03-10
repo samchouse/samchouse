@@ -2,16 +2,16 @@
 
 ## Hi, I'm Samuel - aka Xenfo
 
-[![Website](https://img.shields.io/website?label=xenfo.dev&style=for-the-badge&url=https%3A%2F%2Fxenfantstudios.com)](https://xenfo.dev)
+[![Website](https://img.shields.io/website?label=xenfo.dev&style=for-the-badge&url=https%3A%2F%2Fxenfo.dev)](https://xenfo.dev)
 [![Github Followers](https://img.shields.io/github/followers/Xenfo?logo=github&style=for-the-badge)](https://github.com/XenfoMC)
 
 ### I'm a Student and a Developer!
 
-- 🔭 I’m currently working on Minecraft Java Plugins
-- 🌱 I’m currently learning React JS
+- 🔭 I’m currently working on React Native apps and [Quicky](https://github.com/quicky-gg), a private ShareX image uploader.
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about Discord.js
-- 📫 How to reach me chouse.samuel@gmail.com
+- 📫 You can reach me at [chouse.samuel@gmail.com](mailto:chouse.samuel@gmail.com)
 - ⚡ Fun fact I used to play the violin
 
 ### Spotify Playing 🎧
