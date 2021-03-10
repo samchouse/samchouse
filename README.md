@@ -53,11 +53,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Xenfo/DefinitelyTyped/pull/4) in [Xenfo/DefinitelyTyped](https://github.com/Xenfo/DefinitelyTyped)
-2. 🗣 Commented on [#120](https://github.com/Xenfo/maintainer-bot/issues/120) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-3. 🗣 Commented on [#145](https://github.com/Xenfo/maintainer-bot/issues/145) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. 🗣 Commented on [#149](https://github.com/Xenfo/maintainer-bot/issues/149) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-5. 🗣 Commented on [#144](https://github.com/Xenfo/maintainer-bot/issues/144) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. 🗣 Commented on [#51637](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/51637) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. ❗️ Closed issue [#58](https://github.com/probot/smee.io/issues/58) in [probot/smee.io](https://github.com/probot/smee.io)
+3. ❗️ Closed issue [#7072](https://github.com/balderdashy/sails/issues/7072) in [balderdashy/sails](https://github.com/balderdashy/sails)
+4. ❗️ Closed issue [#354](https://github.com/gskinner/regexr/issues/354) in [gskinner/regexr](https://github.com/gskinner/regexr)
+5. ❗️ Closed issue [#1799](https://github.com/remy/nodemon/issues/1799) in [remy/nodemon](https://github.com/remy/nodemon)
 <!--END_SECTION:activity-->
 
 </details>
