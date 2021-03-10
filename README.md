@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#97](https://github.com/bb010g/betterdiscordctl/issues/97) in [bb010g/betterdiscordctl](https://github.com/bb010g/betterdiscordctl)
-2. ❗️ Opened issue [#966](https://github.com/PKief/vscode-material-icon-theme/issues/966) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-3. 🎉 Merged PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
-4. 💪 Opened PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
-5. ❗️ Closed issue [#22593](https://github.com/vercel/next.js/issues/22593) in [vercel/next.js](https://github.com/vercel/next.js)
+1. ❗️ Closed issue [#1981](https://github.com/checkra1n/BugTracker/issues/1981) in [checkra1n/BugTracker](https://github.com/checkra1n/BugTracker)
+2. ❗️ Opened issue [#97](https://github.com/bb010g/betterdiscordctl/issues/97) in [bb010g/betterdiscordctl](https://github.com/bb010g/betterdiscordctl)
+3. ❗️ Opened issue [#966](https://github.com/PKief/vscode-material-icon-theme/issues/966) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+4. 🎉 Merged PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
+5. 💪 Opened PR [#1](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo/pull/1) in [SupremeHealth-Web/code-scanning-javascript-demo](https://github.com/SupremeHealth-Web/code-scanning-javascript-demo)
 <!--END_SECTION:activity-->
 
 </details>
