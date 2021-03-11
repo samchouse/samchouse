@@ -53,11 +53,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Xenfo/DefinitelyTyped/pull/5) in [Xenfo/DefinitelyTyped](https://github.com/Xenfo/DefinitelyTyped)
-2. 🗣 Commented on [#51637](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/51637) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. ❗️ Closed issue [#58](https://github.com/probot/smee.io/issues/58) in [probot/smee.io](https://github.com/probot/smee.io)
-4. ❗️ Closed issue [#7072](https://github.com/balderdashy/sails/issues/7072) in [balderdashy/sails](https://github.com/balderdashy/sails)
-5. ❗️ Closed issue [#354](https://github.com/gskinner/regexr/issues/354) in [gskinner/regexr](https://github.com/gskinner/regexr)
+1. 🗣 Commented on [#151](https://github.com/Xenfo/maintainer-bot/issues/151) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. 🗣 Commented on [#150](https://github.com/Xenfo/maintainer-bot/issues/150) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🗣 Commented on [#151](https://github.com/Xenfo/maintainer-bot/issues/151) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🗣 Commented on [#153](https://github.com/Xenfo/maintainer-bot/issues/153) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🗣 Commented on [#150](https://github.com/Xenfo/maintainer-bot/issues/150) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
