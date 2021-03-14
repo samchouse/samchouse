@@ -54,10 +54,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#966](https://github.com/PKief/vscode-material-icon-theme/issues/966) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-2. 🗣 Commented on [#151](https://github.com/Xenfo/maintainer-bot/issues/151) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-3. 🗣 Commented on [#150](https://github.com/Xenfo/maintainer-bot/issues/150) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. 🗣 Commented on [#151](https://github.com/Xenfo/maintainer-bot/issues/151) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-5. 🗣 Commented on [#153](https://github.com/Xenfo/maintainer-bot/issues/153) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. 🗣 Commented on [#966](https://github.com/PKief/vscode-material-icon-theme/issues/966) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+3. 🗣 Commented on [#151](https://github.com/Xenfo/maintainer-bot/issues/151) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🗣 Commented on [#150](https://github.com/Xenfo/maintainer-bot/issues/150) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🗣 Commented on [#151](https://github.com/Xenfo/maintainer-bot/issues/151) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
