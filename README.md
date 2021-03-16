@@ -53,11 +53,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/Xenfo/maintainer-bot/issues/158) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-2. 🗣 Commented on [#159](https://github.com/Xenfo/maintainer-bot/issues/159) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-3. 🗣 Commented on [#160](https://github.com/Xenfo/maintainer-bot/issues/160) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. 🗣 Commented on [#966](https://github.com/PKief/vscode-material-icon-theme/issues/966) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-5. ❗️ Closed issue [#966](https://github.com/PKief/vscode-material-icon-theme/issues/966) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+1. 🗣 Commented on [#163](https://github.com/Xenfo/maintainer-bot/issues/163) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. 🗣 Commented on [#163](https://github.com/Xenfo/maintainer-bot/issues/163) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🗣 Commented on [#163](https://github.com/Xenfo/maintainer-bot/issues/163) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🗣 Commented on [#162](https://github.com/Xenfo/maintainer-bot/issues/162) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🗣 Commented on [#161](https://github.com/Xenfo/maintainer-bot/issues/161) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
