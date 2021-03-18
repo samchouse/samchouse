@@ -55,10 +55,10 @@ Note to self: Make a generate CLI to generate projects more easily.
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#165](https://github.com/Xenfo/maintainer-bot/issues/165) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-2. 🗣 Commented on [#166](https://github.com/Xenfo/maintainer-bot/issues/166) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-3. 🗣 Commented on [#25246](https://github.com/mui-org/material-ui/issues/25246) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
-4. 🗣 Commented on [#163](https://github.com/Xenfo/maintainer-bot/issues/163) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. 🗣 Commented on [#25246](https://github.com/mui-org/material-ui/issues/25246) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
+2. 🗣 Commented on [#165](https://github.com/Xenfo/maintainer-bot/issues/165) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🗣 Commented on [#166](https://github.com/Xenfo/maintainer-bot/issues/166) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🗣 Commented on [#25246](https://github.com/mui-org/material-ui/issues/25246) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
 5. 🗣 Commented on [#163](https://github.com/Xenfo/maintainer-bot/issues/163) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
