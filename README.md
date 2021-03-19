@@ -55,11 +55,11 @@ Note to self: Make a generate CLI to generate projects more easily.
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
-2. 🗣 Commented on [#119326](https://github.com/microsoft/vscode/issues/119326) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#119326](https://github.com/microsoft/vscode/issues/119326) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#25246](https://github.com/mui-org/material-ui/issues/25246) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
-5. 🗣 Commented on [#165](https://github.com/Xenfo/maintainer-bot/issues/165) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. ❗️ Closed issue [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+2. 🗣 Commented on [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+3. 🗣 Commented on [#119350](https://github.com/microsoft/vscode/issues/119350) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#119350](https://github.com/microsoft/vscode/issues/119350) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗️ Opened issue [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 <!--END_SECTION:activity-->
 
 </details>
