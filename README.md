@@ -55,11 +55,11 @@ Note to self: Make a generate CLI to generate projects more easily.
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
-2. 🗣 Commented on [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
-3. 🗣 Commented on [#119350](https://github.com/microsoft/vscode/issues/119350) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Opened issue [#119350](https://github.com/microsoft/vscode/issues/119350) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Opened issue [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+1. ❗️ Opened issue [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+2. ❗️ Closed issue [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+3. 🗣 Commented on [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+4. 🗣 Commented on [#119350](https://github.com/microsoft/vscode/issues/119350) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗️ Opened issue [#119350](https://github.com/microsoft/vscode/issues/119350) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 </details>
