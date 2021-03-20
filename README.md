@@ -52,11 +52,11 @@ Note to self: Make a generate CLI to generate projects more easily.
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-2. ❗️ Opened issue [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-3. ❗️ Closed issue [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
-4. 🗣 Commented on [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
-5. 🗣 Commented on [#119350](https://github.com/microsoft/vscode/issues/119350) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🎉 Merged PR [#2](https://github.com/Xenfo/github-readme-stats/pull/2) in [Xenfo/github-readme-stats](https://github.com/Xenfo/github-readme-stats)
+2. 🗣 Commented on [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+3. ❗️ Opened issue [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+4. ❗️ Closed issue [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+5. 🗣 Commented on [#215](https://github.com/sickcodes/Docker-OSX/issues/215) in [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 <!--END_SECTION:activity-->
 
 </details>
