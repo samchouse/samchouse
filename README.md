@@ -52,11 +52,11 @@ Note to self: Make a generate CLI to generate projects more easily.
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#908](https://github.com/typicode/husky/issues/908) in [typicode/husky](https://github.com/typicode/husky)
-2. 🗣 Commented on [#908](https://github.com/typicode/husky/issues/908) in [typicode/husky](https://github.com/typicode/husky)
-3. ❗️ Opened issue [#908](https://github.com/typicode/husky/issues/908) in [typicode/husky](https://github.com/typicode/husky)
-4. 🎉 Merged PR [#2](https://github.com/Xenfo/github-readme-stats/pull/2) in [Xenfo/github-readme-stats](https://github.com/Xenfo/github-readme-stats)
-5. 🗣 Commented on [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+1. 🎉 Merged PR [#3](https://github.com/Xenfo/github-readme-stats/pull/3) in [Xenfo/github-readme-stats](https://github.com/Xenfo/github-readme-stats)
+2. ❗️ Closed issue [#908](https://github.com/typicode/husky/issues/908) in [typicode/husky](https://github.com/typicode/husky)
+3. 🗣 Commented on [#908](https://github.com/typicode/husky/issues/908) in [typicode/husky](https://github.com/typicode/husky)
+4. ❗️ Opened issue [#908](https://github.com/typicode/husky/issues/908) in [typicode/husky](https://github.com/typicode/husky)
+5. 🎉 Merged PR [#2](https://github.com/Xenfo/github-readme-stats/pull/2) in [Xenfo/github-readme-stats](https://github.com/Xenfo/github-readme-stats)
 <!--END_SECTION:activity-->
 
 </details>
