@@ -52,11 +52,11 @@ Note to self: Make a generate CLI to generate projects more easily.
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-2. 🗣 Commented on [#168](https://github.com/Xenfo/maintainer-bot/issues/168) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-3. 🗣 Commented on [#167](https://github.com/Xenfo/maintainer-bot/issues/167) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. 🎉 Merged PR [#3](https://github.com/Xenfo/github-readme-stats/pull/3) in [Xenfo/github-readme-stats](https://github.com/Xenfo/github-readme-stats)
-5. ❗️ Closed issue [#908](https://github.com/typicode/husky/issues/908) in [typicode/husky](https://github.com/typicode/husky)
+1. 🎉 Merged PR [#169](https://github.com/Xenfo/maintainer-bot/pull/169) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. 🗣 Commented on [#169](https://github.com/Xenfo/maintainer-bot/issues/169) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🗣 Commented on [#170](https://github.com/Xenfo/maintainer-bot/issues/170) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🗣 Commented on [#169](https://github.com/Xenfo/maintainer-bot/issues/169) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🗣 Commented on [#169](https://github.com/Xenfo/maintainer-bot/issues/169) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
