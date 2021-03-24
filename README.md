@@ -52,10 +52,10 @@ Note to self: Make a generate CLI to generate projects more easily.
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#169](https://github.com/Xenfo/maintainer-bot/pull/169) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-2. 🗣 Commented on [#169](https://github.com/Xenfo/maintainer-bot/issues/169) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-3. 🗣 Commented on [#170](https://github.com/Xenfo/maintainer-bot/issues/170) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. 🗣 Commented on [#169](https://github.com/Xenfo/maintainer-bot/issues/169) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. 🗣 Commented on [#173](https://github.com/Xenfo/maintainer-bot/issues/173) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+2. 🎉 Merged PR [#169](https://github.com/Xenfo/maintainer-bot/pull/169) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+3. 🗣 Commented on [#169](https://github.com/Xenfo/maintainer-bot/issues/169) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🗣 Commented on [#170](https://github.com/Xenfo/maintainer-bot/issues/170) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 5. 🗣 Commented on [#169](https://github.com/Xenfo/maintainer-bot/issues/169) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
