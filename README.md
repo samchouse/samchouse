@@ -5,7 +5,6 @@
 Note to self: Make a generate CLI to generate projects more easily.
 
 [![Website](https://img.shields.io/website?label=xenfo.dev&style=for-the-badge&url=https%3A%2F%2Fxenfo.dev)](https://xenfo.dev)
-[![Website](https://img.shields.io/website?label=quicky.gg&style=for-the-badge&url=https%3A%2F%2Fquicky.gg)](https://quicky.gg)
 [![Github Followers](https://img.shields.io/github/followers/Xenfo?logo=github&style=for-the-badge)](https://github.com/Xenfo)
 
 ### I'm a Student and a Developer!
