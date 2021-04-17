@@ -2,8 +2,6 @@
 
 ## Hi, I'm Samuel - aka Xenfo
 
-Note to self: Make a generate CLI to generate projects more easily.
-
 [![Website](https://img.shields.io/website?label=xenfo.dev&style=for-the-badge&url=https%3A%2F%2Fxenfo.dev)](https://xenfo.dev)
 [![Github Followers](https://img.shields.io/github/followers/Xenfo?logo=github&style=for-the-badge)](https://github.com/Xenfo)
 
