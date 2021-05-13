@@ -50,11 +50,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Xenfo/github-readme-stats/pull/7) in [Xenfo/github-readme-stats](https://github.com/Xenfo/github-readme-stats)
-2. 🎉 Merged PR [#3](https://github.com/Xenfo/cli/pull/3) in [Xenfo/cli](https://github.com/Xenfo/cli)
-3. 💪 Opened PR [#3](https://github.com/Xenfo/cli/pull/3) in [Xenfo/cli](https://github.com/Xenfo/cli)
-4. 🎉 Merged PR [#204](https://github.com/Xenfo/maintainer-bot/pull/204) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-5. 🎉 Merged PR [#203](https://github.com/Xenfo/maintainer-bot/pull/203) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. ❗️ Opened issue [#30](https://github.com/paju1986/PlasmaConfSaver/issues/30) in [paju1986/PlasmaConfSaver](https://github.com/paju1986/PlasmaConfSaver)
+2. 🎉 Merged PR [#7](https://github.com/Xenfo/github-readme-stats/pull/7) in [Xenfo/github-readme-stats](https://github.com/Xenfo/github-readme-stats)
+3. 🎉 Merged PR [#3](https://github.com/Xenfo/cli/pull/3) in [Xenfo/cli](https://github.com/Xenfo/cli)
+4. 💪 Opened PR [#3](https://github.com/Xenfo/cli/pull/3) in [Xenfo/cli](https://github.com/Xenfo/cli)
+5. 🎉 Merged PR [#204](https://github.com/Xenfo/maintainer-bot/pull/204) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 
 </details>
