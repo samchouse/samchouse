@@ -51,11 +51,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/paju1986/PlasmaConfSaver/issues/30) in [paju1986/PlasmaConfSaver](https://github.com/paju1986/PlasmaConfSaver)
-2. 🎉 Merged PR [#7](https://github.com/Xenfo/github-readme-stats/pull/7) in [Xenfo/github-readme-stats](https://github.com/Xenfo/github-readme-stats)
-3. 🎉 Merged PR [#3](https://github.com/Xenfo/cli/pull/3) in [Xenfo/cli](https://github.com/Xenfo/cli)
-4. 💪 Opened PR [#3](https://github.com/Xenfo/cli/pull/3) in [Xenfo/cli](https://github.com/Xenfo/cli)
-5. 🎉 Merged PR [#204](https://github.com/Xenfo/maintainer-bot/pull/204) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. 🎉 Merged PR [#11](https://github.com/Xenfo/cli/pull/11) in [Xenfo/cli](https://github.com/Xenfo/cli)
+2. 🎉 Merged PR [#15](https://github.com/Xenfo/cli/pull/15) in [Xenfo/cli](https://github.com/Xenfo/cli)
+3. 🗣 Commented on [#214](https://github.com/Xenfo/maintainer-bot/issues/214) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+4. 🗣 Commented on [#233](https://github.com/Xenfo/maintainer-bot/issues/233) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+5. 🗣 Commented on [#28](https://github.com/Xenfo/ui/issues/28) in [Xenfo/ui](https://github.com/Xenfo/ui)
 <!--END_SECTION:activity-->
 
 </details>
