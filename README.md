@@ -40,6 +40,7 @@
 - Started really getting into JavaScript at age 13
 - Learned TypeScript at age 13 and using it since
 - Finally settled on what I love to code: React Native and web apps
+- Discovered Akairo and I'm loving it
 
 <br />
 <br />
