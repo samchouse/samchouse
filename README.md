@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on React Native apps, [Quicky](https://github.com/quicky-gg), and [Atomic](https://github.com/Xenfo/Atomic), my own chat app.
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on interesting projects
-- 💬 Ask me about Discord.js
+- 💬 Ask me about Discord.JS and Discord Akairo
 - 📫 You can reach me at [chouse.samuel@gmail.com](mailto:chouse.samuel@gmail.com)
 - ⚡ Fun fact I used to play the violin
 
