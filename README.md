@@ -7,7 +7,7 @@
 
 ### I'm a Student and a Developer!
 
-- 🔭 I’m currently working on React Native apps and [Quicky](https://github.com/quicky-gg), a private ShareX image uploader.
+- 🔭 I’m currently working on React Native apps, [Quicky](https://github.com/quicky-gg), and [Atomic](https://github.com/Xenfo/Atomic), my own chat app.
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about Discord.js
