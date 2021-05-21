@@ -51,11 +51,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/Xenfo/atomic/pull/25) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. ❗️ Opened issue [#979](https://github.com/typicode/husky/issues/979) in [typicode/husky](https://github.com/typicode/husky)
-3. 💪 Opened PR [#25](https://github.com/Xenfo/atomic/pull/25) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-4. 🎉 Merged PR [#24](https://github.com/Xenfo/atomic/pull/24) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-5. 💪 Opened PR [#24](https://github.com/Xenfo/atomic/pull/24) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+1. 🎉 Merged PR [#28](https://github.com/Xenfo/atomic/pull/28) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+2. 💪 Opened PR [#28](https://github.com/Xenfo/atomic/pull/28) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. 🎉 Merged PR [#25](https://github.com/Xenfo/atomic/pull/25) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+4. ❗️ Opened issue [#979](https://github.com/typicode/husky/issues/979) in [typicode/husky](https://github.com/typicode/husky)
+5. 💪 Opened PR [#25](https://github.com/Xenfo/atomic/pull/25) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
 <!--END_SECTION:activity-->
 
 </details>
