@@ -51,11 +51,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5748](https://github.com/nrwl/nx/issues/5748) in [nrwl/nx](https://github.com/nrwl/nx)
-2. 🎉 Merged PR [#37](https://github.com/Xenfo/atomic/pull/37) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-3. 🗣 Commented on [#5748](https://github.com/nrwl/nx/issues/5748) in [nrwl/nx](https://github.com/nrwl/nx)
-4. 💪 Opened PR [#37](https://github.com/Xenfo/atomic/pull/37) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-5. 🎉 Merged PR [#36](https://github.com/Xenfo/atomic/pull/36) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+1. ❗️ Opened issue [#5768](https://github.com/nrwl/nx/issues/5768) in [nrwl/nx](https://github.com/nrwl/nx)
+2. 🗣 Commented on [#5748](https://github.com/nrwl/nx/issues/5748) in [nrwl/nx](https://github.com/nrwl/nx)
+3. 🎉 Merged PR [#37](https://github.com/Xenfo/atomic/pull/37) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+4. 🗣 Commented on [#5748](https://github.com/nrwl/nx/issues/5748) in [nrwl/nx](https://github.com/nrwl/nx)
+5. 💪 Opened PR [#37](https://github.com/Xenfo/atomic/pull/37) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
 <!--END_SECTION:activity-->
 
 </details>
