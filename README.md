@@ -44,7 +44,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="center" alt="Xenfo's Github Stats" src="https://github-readme-stats.xenfo.vercel.app/api?username=Xenfo&show_icons=true&count_private=true&   hide_border=true&bg_color=0d1117&text_color=ffffff" />
+  <img align="center" alt="Xenfo's Github Stats" src="https://github-readme-stats.xenfo.vercel.app/api?username=Xenfo&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff" />
   <img align="center" alt="Xenfo's Top Languages" src="https://github-readme-stats.xenfo.vercel.app/api/top-langs/?username=Xenfo&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff" />
 </details>
 
