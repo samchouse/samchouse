@@ -42,9 +42,6 @@
 - Finally settled on what I love to code: React Native and web apps
 - Discovered Akairo and I'm loving it
 
-<br />
-<br />
-
 ---
 
 <details>
@@ -57,14 +54,13 @@
 4. 🗣 Commented on [#5748](https://github.com/nrwl/nx/issues/5748) in [nrwl/nx](https://github.com/nrwl/nx)
 5. ❗️ Opened issue [#5768](https://github.com/nrwl/nx/issues/5768) in [nrwl/nx](https://github.com/nrwl/nx)
 <!--END_SECTION:activity-->
-
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Xenfo's Github Stats" src="https://github-readme-stats.xenfo.vercel.app/api?username=Xenfo&show_icons=true&hide_border=true" />
-
+  <img align="center" alt="Xenfo's Github Stats" src="https://github-readme-stats.xenfo.vercel.app/api?username=Xenfo&show_icons=true&count_private=true&   hide_border=true&bg_color=0d1117&text_color=ffffff" />
+  <img align="center" alt="Xenfo's Top Languages" src="https://github-readme-stats.xenfo.vercel.app/api/top-langs/?username=Xenfo&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff" />
 </details>
 
 [discord]: https://www.discord.gg/hWCzNmd
