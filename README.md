@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/Xenfo/atomic/pull/70) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. ❗️ Opened issue [#5838](https://github.com/nrwl/nx/issues/5838) in [nrwl/nx](https://github.com/nrwl/nx)
-3. 🎉 Merged PR [#64](https://github.com/Xenfo/atomic/pull/64) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-4. 💪 Opened PR [#64](https://github.com/Xenfo/atomic/pull/64) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-5. 🎉 Merged PR [#53](https://github.com/Xenfo/atomic/pull/53) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+1. 🎉 Merged PR [#70](https://github.com/Xenfo/atomic/pull/70) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+2. 💪 Opened PR [#70](https://github.com/Xenfo/atomic/pull/70) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. ❗️ Opened issue [#5838](https://github.com/nrwl/nx/issues/5838) in [nrwl/nx](https://github.com/nrwl/nx)
+4. 🎉 Merged PR [#64](https://github.com/Xenfo/atomic/pull/64) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+5. 💪 Opened PR [#64](https://github.com/Xenfo/atomic/pull/64) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
 <!--END_SECTION:activity-->
 </details>
 
