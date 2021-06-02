@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/Xenfo/atomic/pull/80) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. 🎉 Merged PR [#77](https://github.com/Xenfo/atomic/pull/77) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-3. 🎉 Merged PR [#78](https://github.com/Xenfo/atomic/pull/78) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-4. 💪 Opened PR [#78](https://github.com/Xenfo/atomic/pull/78) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-5. 🎉 Merged PR [#76](https://github.com/Xenfo/atomic/pull/76) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+1. ❌ Closed PR [#82](https://github.com/Xenfo/atomic/pull/82) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+2. 🎉 Merged PR [#86](https://github.com/Xenfo/atomic/pull/86) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. ❌ Closed PR [#81](https://github.com/Xenfo/atomic/pull/81) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+4. 💪 Opened PR [#86](https://github.com/Xenfo/atomic/pull/86) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+5. 🎉 Merged PR [#85](https://github.com/Xenfo/atomic/pull/85) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
 <!--END_SECTION:activity-->
 </details>
 
