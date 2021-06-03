@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
-2. 🗣 Commented on [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
+1. ❗️ Opened issue [#11008](https://github.com/prettier/prettier/issues/11008) in [prettier/prettier](https://github.com/prettier/prettier)
+2. ❗️ Closed issue [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
 3. 🗣 Commented on [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
-4. ❗️ Opened issue [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
-5. ❗️ Closed issue [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
+4. 🗣 Commented on [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
+5. ❗️ Opened issue [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
 <!--END_SECTION:activity-->
 </details>
 
