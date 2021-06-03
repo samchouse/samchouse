@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
-2. 🗣 Commented on [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
-3. 🗣 Commented on [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
-4. 🎉 Merged PR [#36](https://github.com/Xenfo/nx-plugins/pull/36) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-5. 💪 Opened PR [#36](https://github.com/Xenfo/nx-plugins/pull/36) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+1. ❗️ Closed issue [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
+2. 🗣 Commented on [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
+3. 🗣 Commented on [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
+4. ❗️ Opened issue [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
+5. ❗️ Closed issue [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
 <!--END_SECTION:activity-->
 </details>
 
