@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/Xenfo/nx-plugins/pull/36) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-2. 💪 Opened PR [#36](https://github.com/Xenfo/nx-plugins/pull/36) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-3. 🎉 Merged PR [#95](https://github.com/Xenfo/atomic/pull/95) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-4. 💪 Opened PR [#95](https://github.com/Xenfo/atomic/pull/95) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-5. 🗣 Commented on [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
+1. ❗️ Closed issue [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
+2. 🗣 Commented on [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
+3. 🗣 Commented on [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
+4. 🎉 Merged PR [#36](https://github.com/Xenfo/nx-plugins/pull/36) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+5. 💪 Opened PR [#36](https://github.com/Xenfo/nx-plugins/pull/36) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
 <!--END_SECTION:activity-->
 </details>
 
