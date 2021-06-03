@@ -33,10 +33,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/Xenfo/atomic/pull/94) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. 🗣 Commented on [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
-3. 💪 Opened PR [#94](https://github.com/Xenfo/atomic/pull/94) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-4. 🗣 Commented on [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
+1. 🗣 Commented on [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
+2. 🎉 Merged PR [#94](https://github.com/Xenfo/atomic/pull/94) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. 🗣 Commented on [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
+4. 💪 Opened PR [#94](https://github.com/Xenfo/atomic/pull/94) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
 5. 🗣 Commented on [#1548](https://github.com/probot/probot/issues/1548) in [probot/probot](https://github.com/probot/probot)
 <!--END_SECTION:activity-->
 </details>
