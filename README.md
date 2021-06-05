@@ -33,10 +33,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/Xenfo/atomic/pull/97) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. ❗️ Opened issue [#11008](https://github.com/prettier/prettier/issues/11008) in [prettier/prettier](https://github.com/prettier/prettier)
-3. ❗️ Closed issue [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
-4. 🗣 Commented on [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
+1. ❗️ Opened issue [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
+2. 🎉 Merged PR [#97](https://github.com/Xenfo/atomic/pull/97) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. ❗️ Opened issue [#11008](https://github.com/prettier/prettier/issues/11008) in [prettier/prettier](https://github.com/prettier/prettier)
+4. ❗️ Closed issue [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
 5. 🗣 Commented on [#5882](https://github.com/nrwl/nx/issues/5882) in [nrwl/nx](https://github.com/nrwl/nx)
 <!--END_SECTION:activity-->
 </details>
