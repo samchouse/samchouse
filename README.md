@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
-2. 🗣 Commented on [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
-3. 🗣 Commented on [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
-4. ❗️ Opened issue [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
-5. 🎉 Merged PR [#97](https://github.com/Xenfo/atomic/pull/97) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+1. ❌ Closed PR [#38](https://github.com/Xenfo/nx-plugins/pull/38) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+2. ❌ Closed PR [#37](https://github.com/Xenfo/nx-plugins/pull/37) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+3. ❗️ Closed issue [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
+4. 🗣 Commented on [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
+5. 🗣 Commented on [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
 <!--END_SECTION:activity-->
 </details>
 
