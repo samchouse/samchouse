@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#38](https://github.com/Xenfo/nx-plugins/pull/38) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-2. ❌ Closed PR [#37](https://github.com/Xenfo/nx-plugins/pull/37) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-3. ❗️ Closed issue [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
-4. 🗣 Commented on [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
-5. 🗣 Commented on [#2](https://github.com/Lavaclient/plugins/issues/2) in [Lavaclient/plugins](https://github.com/Lavaclient/plugins)
+1. 🎉 Merged PR [#30](https://github.com/Xenfo/cli/pull/30) in [Xenfo/cli](https://github.com/Xenfo/cli)
+2. 💪 Opened PR [#30](https://github.com/Xenfo/cli/pull/30) in [Xenfo/cli](https://github.com/Xenfo/cli)
+3. 🎉 Merged PR [#29](https://github.com/Xenfo/cli/pull/29) in [Xenfo/cli](https://github.com/Xenfo/cli)
+4. 💪 Opened PR [#29](https://github.com/Xenfo/cli/pull/29) in [Xenfo/cli](https://github.com/Xenfo/cli)
+5. ❌ Closed PR [#38](https://github.com/Xenfo/nx-plugins/pull/38) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
 <!--END_SECTION:activity-->
 </details>
 
