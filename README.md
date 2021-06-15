@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/Xenfo/nx-plugins/pull/47) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-2. 🗣 Commented on [#47](https://github.com/Xenfo/nx-plugins/issues/47) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-3. 🎉 Merged PR [#46](https://github.com/Xenfo/nx-plugins/pull/46) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-4. 🗣 Commented on [#2](https://github.com/IanMitchell/sentrydiscord.dev/issues/2) in [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)
-5. ❗️ Opened issue [#2](https://github.com/IanMitchell/sentrydiscord.dev/issues/2) in [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)
+1. ❗️ Opened issue [#3683](https://github.com/getsentry/sentry-javascript/issues/3683) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+2. 🎉 Merged PR [#47](https://github.com/Xenfo/nx-plugins/pull/47) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+3. 🗣 Commented on [#47](https://github.com/Xenfo/nx-plugins/issues/47) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+4. 🎉 Merged PR [#46](https://github.com/Xenfo/nx-plugins/pull/46) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+5. 🗣 Commented on [#2](https://github.com/IanMitchell/sentrydiscord.dev/issues/2) in [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)
 <!--END_SECTION:activity-->
 </details>
 
