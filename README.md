@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/IanMitchell/sentrydiscord.dev/issues/2) in [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)
-2. ❗️ Opened issue [#2](https://github.com/IanMitchell/sentrydiscord.dev/issues/2) in [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)
-3. 🎉 Merged PR [#40](https://github.com/Xenfo/nx-plugins/pull/40) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-4. 🎉 Merged PR [#43](https://github.com/Xenfo/nx-plugins/pull/43) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-5. 🎉 Merged PR [#45](https://github.com/Xenfo/nx-plugins/pull/45) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+1. 🗣 Commented on [#47](https://github.com/Xenfo/nx-plugins/issues/47) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+2. 🎉 Merged PR [#46](https://github.com/Xenfo/nx-plugins/pull/46) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+3. 🗣 Commented on [#2](https://github.com/IanMitchell/sentrydiscord.dev/issues/2) in [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)
+4. ❗️ Opened issue [#2](https://github.com/IanMitchell/sentrydiscord.dev/issues/2) in [IanMitchell/sentrydiscord.dev](https://github.com/IanMitchell/sentrydiscord.dev)
+5. 🎉 Merged PR [#40](https://github.com/Xenfo/nx-plugins/pull/40) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
 <!--END_SECTION:activity-->
 </details>
 
