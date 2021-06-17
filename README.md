@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#137](https://github.com/nextauthjs/adapters/issues/137) in [nextauthjs/adapters](https://github.com/nextauthjs/adapters)
-2. 🗣 Commented on [#3683](https://github.com/getsentry/sentry-javascript/issues/3683) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-3. ❗️ Opened issue [#3683](https://github.com/getsentry/sentry-javascript/issues/3683) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-4. 🎉 Merged PR [#47](https://github.com/Xenfo/nx-plugins/pull/47) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-5. 🗣 Commented on [#47](https://github.com/Xenfo/nx-plugins/issues/47) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+1. 🎉 Merged PR [#51](https://github.com/Xenfo/nx-plugins/pull/51) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+2. 🎉 Merged PR [#50](https://github.com/Xenfo/nx-plugins/pull/50) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+3. 🎉 Merged PR [#48](https://github.com/Xenfo/nx-plugins/pull/48) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+4. 🎉 Merged PR [#53](https://github.com/Xenfo/nx-plugins/pull/53) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+5. 🎉 Merged PR [#54](https://github.com/Xenfo/nx-plugins/pull/54) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
 <!--END_SECTION:activity-->
 </details>
 
