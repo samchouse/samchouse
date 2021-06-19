@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/Xenfo/nx-plugins/pull/56) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-2. ❗️ Closed issue [#137](https://github.com/nextauthjs/adapters/issues/137) in [nextauthjs/adapters](https://github.com/nextauthjs/adapters)
-3. 🗣 Commented on [#137](https://github.com/nextauthjs/adapters/issues/137) in [nextauthjs/adapters](https://github.com/nextauthjs/adapters)
-4. 🎉 Merged PR [#49](https://github.com/Xenfo/nx-plugins/pull/49) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-5. 🎉 Merged PR [#52](https://github.com/Xenfo/nx-plugins/pull/52) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+1. ❗️ Closed issue [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+2. 🗣 Commented on [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+3. 🎉 Merged PR [#56](https://github.com/Xenfo/nx-plugins/pull/56) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+4. ❗️ Closed issue [#137](https://github.com/nextauthjs/adapters/issues/137) in [nextauthjs/adapters](https://github.com/nextauthjs/adapters)
+5. 🗣 Commented on [#137](https://github.com/nextauthjs/adapters/issues/137) in [nextauthjs/adapters](https://github.com/nextauthjs/adapters)
 <!--END_SECTION:activity-->
 </details>
 
