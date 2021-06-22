@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/Xenfo/nx-plugins/pull/58) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-2. 🎉 Merged PR [#57](https://github.com/Xenfo/nx-plugins/pull/57) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-3. ❗️ Closed issue [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-4. 🗣 Commented on [#43318](https://github.com/microsoft/TypeScript/issues/43318) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-5. 🎉 Merged PR [#56](https://github.com/Xenfo/nx-plugins/pull/56) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+1. 🎉 Merged PR [#60](https://github.com/Xenfo/nx-plugins/pull/60) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+2. 🎉 Merged PR [#61](https://github.com/Xenfo/nx-plugins/pull/61) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+3. 🎉 Merged PR [#117](https://github.com/Xenfo/atomic/pull/117) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+4. 🎉 Merged PR [#58](https://github.com/Xenfo/nx-plugins/pull/58) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+5. 🎉 Merged PR [#57](https://github.com/Xenfo/nx-plugins/pull/57) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
 <!--END_SECTION:activity-->
 </details>
 
