@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#178](https://github.com/Xenfo/atomic/pull/178) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. ❌ Closed PR [#173](https://github.com/Xenfo/atomic/pull/173) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-3. 🎉 Merged PR [#221](https://github.com/Xenfo/nx-plugins/pull/221) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-4. 🎉 Merged PR [#224](https://github.com/Xenfo/nx-plugins/pull/224) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-5. 🎉 Merged PR [#225](https://github.com/Xenfo/nx-plugins/pull/225) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+1. 🎉 Merged PR [#181](https://github.com/Xenfo/atomic/pull/181) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+2. ❌ Closed PR [#178](https://github.com/Xenfo/atomic/pull/178) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. ❌ Closed PR [#173](https://github.com/Xenfo/atomic/pull/173) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+4. 🎉 Merged PR [#221](https://github.com/Xenfo/nx-plugins/pull/221) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+5. 🎉 Merged PR [#224](https://github.com/Xenfo/nx-plugins/pull/224) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
 <!--END_SECTION:activity-->
 </details>
 
