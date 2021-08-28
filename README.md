@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Xenfo/arch/pull/4) in [Xenfo/arch](https://github.com/Xenfo/arch)
-2. 💪 Opened PR [#4](https://github.com/Xenfo/arch/pull/4) in [Xenfo/arch](https://github.com/Xenfo/arch)
-3. 🎉 Merged PR [#3](https://github.com/Xenfo/arch/pull/3) in [Xenfo/arch](https://github.com/Xenfo/arch)
-4. 💪 Opened PR [#3](https://github.com/Xenfo/arch/pull/3) in [Xenfo/arch](https://github.com/Xenfo/arch)
-5. 🎉 Merged PR [#2](https://github.com/Xenfo/arch/pull/2) in [Xenfo/arch](https://github.com/Xenfo/arch)
+1. 🎉 Merged PR [#5](https://github.com/Xenfo/arch/pull/5) in [Xenfo/arch](https://github.com/Xenfo/arch)
+2. 💪 Opened PR [#5](https://github.com/Xenfo/arch/pull/5) in [Xenfo/arch](https://github.com/Xenfo/arch)
+3. 🎉 Merged PR [#4](https://github.com/Xenfo/arch/pull/4) in [Xenfo/arch](https://github.com/Xenfo/arch)
+4. 💪 Opened PR [#4](https://github.com/Xenfo/arch/pull/4) in [Xenfo/arch](https://github.com/Xenfo/arch)
+5. 🎉 Merged PR [#3](https://github.com/Xenfo/arch/pull/3) in [Xenfo/arch](https://github.com/Xenfo/arch)
 <!--END_SECTION:activity-->
 </details>
 
