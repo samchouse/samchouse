@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Xenfo/snow.js/pull/8) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-2. ❗️ Opened issue [#1035](https://github.com/typicode/husky/issues/1035) in [typicode/husky](https://github.com/typicode/husky)
-3. 💪 Opened PR [#8](https://github.com/Xenfo/snow.js/pull/8) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-4. ❗️ Closed issue [#11432](https://github.com/prettier/prettier/issues/11432) in [prettier/prettier](https://github.com/prettier/prettier)
-5. 🗣 Commented on [#11432](https://github.com/prettier/prettier/issues/11432) in [prettier/prettier](https://github.com/prettier/prettier)
+1. 🎉 Merged PR [#194](https://github.com/Xenfo/atomic/pull/194) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+2. 🎉 Merged PR [#8](https://github.com/Xenfo/snow.js/pull/8) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+3. ❗️ Opened issue [#1035](https://github.com/typicode/husky/issues/1035) in [typicode/husky](https://github.com/typicode/husky)
+4. 💪 Opened PR [#8](https://github.com/Xenfo/snow.js/pull/8) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+5. ❗️ Closed issue [#11432](https://github.com/prettier/prettier/issues/11432) in [prettier/prettier](https://github.com/prettier/prettier)
 <!--END_SECTION:activity-->
 </details>
 
