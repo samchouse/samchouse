@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Xenfo/snow.js/pull/8) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-2. ❗️ Closed issue [#11432](https://github.com/prettier/prettier/issues/11432) in [prettier/prettier](https://github.com/prettier/prettier)
-3. 🗣 Commented on [#11432](https://github.com/prettier/prettier/issues/11432) in [prettier/prettier](https://github.com/prettier/prettier)
-4. ❗️ Opened issue [#11432](https://github.com/prettier/prettier/issues/11432) in [prettier/prettier](https://github.com/prettier/prettier)
-5. ❗️ Opened issue [#78](https://github.com/trivago/prettier-plugin-sort-imports/issues/78) in [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports)
+1. 🎉 Merged PR [#8](https://github.com/Xenfo/snow.js/pull/8) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+2. ❗️ Opened issue [#1035](https://github.com/typicode/husky/issues/1035) in [typicode/husky](https://github.com/typicode/husky)
+3. 💪 Opened PR [#8](https://github.com/Xenfo/snow.js/pull/8) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+4. ❗️ Closed issue [#11432](https://github.com/prettier/prettier/issues/11432) in [prettier/prettier](https://github.com/prettier/prettier)
+5. 🗣 Commented on [#11432](https://github.com/prettier/prettier/issues/11432) in [prettier/prettier](https://github.com/prettier/prettier)
 <!--END_SECTION:activity-->
 </details>
 
