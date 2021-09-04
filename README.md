@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Xenfo/arch/pull/10) in [Xenfo/arch](https://github.com/Xenfo/arch)
-2. 💪 Opened PR [#10](https://github.com/Xenfo/arch/pull/10) in [Xenfo/arch](https://github.com/Xenfo/arch)
-3. 🎉 Merged PR [#9](https://github.com/Xenfo/arch/pull/9) in [Xenfo/arch](https://github.com/Xenfo/arch)
-4. 💪 Opened PR [#9](https://github.com/Xenfo/arch/pull/9) in [Xenfo/arch](https://github.com/Xenfo/arch)
-5. 🎉 Merged PR [#8](https://github.com/Xenfo/arch/pull/8) in [Xenfo/arch](https://github.com/Xenfo/arch)
+1. ❗️ Closed issue [#1035](https://github.com/typicode/husky/issues/1035) in [typicode/husky](https://github.com/typicode/husky)
+2. 🗣 Commented on [#1035](https://github.com/typicode/husky/issues/1035) in [typicode/husky](https://github.com/typicode/husky)
+3. 🎉 Merged PR [#10](https://github.com/Xenfo/arch/pull/10) in [Xenfo/arch](https://github.com/Xenfo/arch)
+4. 💪 Opened PR [#10](https://github.com/Xenfo/arch/pull/10) in [Xenfo/arch](https://github.com/Xenfo/arch)
+5. 🎉 Merged PR [#9](https://github.com/Xenfo/arch/pull/9) in [Xenfo/arch](https://github.com/Xenfo/arch)
 <!--END_SECTION:activity-->
 </details>
 
