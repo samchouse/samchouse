@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Xenfo/snow.js/pull/10) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-2. ❗️ Closed issue [#1035](https://github.com/typicode/husky/issues/1035) in [typicode/husky](https://github.com/typicode/husky)
-3. 🗣 Commented on [#1035](https://github.com/typicode/husky/issues/1035) in [typicode/husky](https://github.com/typicode/husky)
-4. 🎉 Merged PR [#10](https://github.com/Xenfo/arch/pull/10) in [Xenfo/arch](https://github.com/Xenfo/arch)
-5. 💪 Opened PR [#10](https://github.com/Xenfo/arch/pull/10) in [Xenfo/arch](https://github.com/Xenfo/arch)
+1. ❗️ Closed issue [#78](https://github.com/trivago/prettier-plugin-sort-imports/issues/78) in [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports)
+2. 🎉 Merged PR [#10](https://github.com/Xenfo/snow.js/pull/10) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+3. 💪 Opened PR [#10](https://github.com/Xenfo/snow.js/pull/10) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+4. ❗️ Closed issue [#1035](https://github.com/typicode/husky/issues/1035) in [typicode/husky](https://github.com/typicode/husky)
+5. 🗣 Commented on [#1035](https://github.com/typicode/husky/issues/1035) in [typicode/husky](https://github.com/typicode/husky)
 <!--END_SECTION:activity-->
 </details>
 
