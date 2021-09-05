@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Xenfo/arch/pull/11) in [Xenfo/arch](https://github.com/Xenfo/arch)
-2. 💪 Opened PR [#11](https://github.com/Xenfo/arch/pull/11) in [Xenfo/arch](https://github.com/Xenfo/arch)
-3. 🎉 Merged PR [#11](https://github.com/Xenfo/snow.js/pull/11) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-4. 💪 Opened PR [#11](https://github.com/Xenfo/snow.js/pull/11) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-5. ❗️ Closed issue [#78](https://github.com/trivago/prettier-plugin-sort-imports/issues/78) in [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports)
+1. 🎉 Merged PR [#12](https://github.com/Xenfo/arch/pull/12) in [Xenfo/arch](https://github.com/Xenfo/arch)
+2. 💪 Opened PR [#12](https://github.com/Xenfo/arch/pull/12) in [Xenfo/arch](https://github.com/Xenfo/arch)
+3. 🎉 Merged PR [#11](https://github.com/Xenfo/arch/pull/11) in [Xenfo/arch](https://github.com/Xenfo/arch)
+4. 💪 Opened PR [#11](https://github.com/Xenfo/arch/pull/11) in [Xenfo/arch](https://github.com/Xenfo/arch)
+5. 🎉 Merged PR [#11](https://github.com/Xenfo/snow.js/pull/11) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
 <!--END_SECTION:activity-->
 </details>
 
