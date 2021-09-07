@@ -34,10 +34,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#94](https://github.com/Foxboron/sbctl/issues/94) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
-2. 🎉 Merged PR [#17](https://github.com/Xenfo/arch/pull/17) in [Xenfo/arch](https://github.com/Xenfo/arch)
-3. 💪 Opened PR [#17](https://github.com/Xenfo/arch/pull/17) in [Xenfo/arch](https://github.com/Xenfo/arch)
-4. ❗️ Opened issue [#94](https://github.com/Foxboron/sbctl/issues/94) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
-5. 🎉 Merged PR [#16](https://github.com/Xenfo/arch/pull/16) in [Xenfo/arch](https://github.com/Xenfo/arch)
+2. 🗣 Commented on [#94](https://github.com/Foxboron/sbctl/issues/94) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
+3. 🗣 Commented on [#94](https://github.com/Foxboron/sbctl/issues/94) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
+4. 🗣 Commented on [#94](https://github.com/Foxboron/sbctl/issues/94) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
+5. 🎉 Merged PR [#17](https://github.com/Xenfo/arch/pull/17) in [Xenfo/arch](https://github.com/Xenfo/arch)
 <!--END_SECTION:activity-->
 </details>
 
