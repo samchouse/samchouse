@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Xenfo/tokenscanner/pull/5) in [Xenfo/tokenscanner](https://github.com/Xenfo/tokenscanner)
-2. 💪 Opened PR [#5](https://github.com/Xenfo/tokenscanner/pull/5) in [Xenfo/tokenscanner](https://github.com/Xenfo/tokenscanner)
-3. 🎉 Merged PR [#4](https://github.com/Xenfo/tokenscanner/pull/4) in [Xenfo/tokenscanner](https://github.com/Xenfo/tokenscanner)
-4. 💪 Opened PR [#4](https://github.com/Xenfo/tokenscanner/pull/4) in [Xenfo/tokenscanner](https://github.com/Xenfo/tokenscanner)
-5. 🎉 Merged PR [#21](https://github.com/Xenfo/arch/pull/21) in [Xenfo/arch](https://github.com/Xenfo/arch)
+1. 🎉 Merged PR [#23](https://github.com/Xenfo/arch/pull/23) in [Xenfo/arch](https://github.com/Xenfo/arch)
+2. 💪 Opened PR [#23](https://github.com/Xenfo/arch/pull/23) in [Xenfo/arch](https://github.com/Xenfo/arch)
+3. 🎉 Merged PR [#5](https://github.com/Xenfo/tokenscanner/pull/5) in [Xenfo/tokenscanner](https://github.com/Xenfo/tokenscanner)
+4. 💪 Opened PR [#5](https://github.com/Xenfo/tokenscanner/pull/5) in [Xenfo/tokenscanner](https://github.com/Xenfo/tokenscanner)
+5. 🎉 Merged PR [#4](https://github.com/Xenfo/tokenscanner/pull/4) in [Xenfo/tokenscanner](https://github.com/Xenfo/tokenscanner)
 <!--END_SECTION:activity-->
 </details>
 
