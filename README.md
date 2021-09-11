@@ -33,9 +33,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Xenfo/arch/pull/29) in [Xenfo/arch](https://github.com/Xenfo/arch)
-2. 💪 Opened PR [#29](https://github.com/Xenfo/arch/pull/29) in [Xenfo/arch](https://github.com/Xenfo/arch)
-3. 🗣 Commented on [#94](https://github.com/Foxboron/sbctl/issues/94) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
+1. ❗️ Opened issue [#95](https://github.com/Foxboron/sbctl/issues/95) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
+2. 🎉 Merged PR [#29](https://github.com/Xenfo/arch/pull/29) in [Xenfo/arch](https://github.com/Xenfo/arch)
+3. 💪 Opened PR [#29](https://github.com/Xenfo/arch/pull/29) in [Xenfo/arch](https://github.com/Xenfo/arch)
 4. 🗣 Commented on [#94](https://github.com/Foxboron/sbctl/issues/94) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
 5. 🗣 Commented on [#94](https://github.com/Foxboron/sbctl/issues/94) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
 <!--END_SECTION:activity-->
