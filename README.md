@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/Xenfo/arch/pull/27) in [Xenfo/arch](https://github.com/Xenfo/arch)
-2. 💪 Opened PR [#27](https://github.com/Xenfo/arch/pull/27) in [Xenfo/arch](https://github.com/Xenfo/arch)
-3. 🎉 Merged PR [#26](https://github.com/Xenfo/arch/pull/26) in [Xenfo/arch](https://github.com/Xenfo/arch)
-4. 💪 Opened PR [#26](https://github.com/Xenfo/arch/pull/26) in [Xenfo/arch](https://github.com/Xenfo/arch)
-5. 🎉 Merged PR [#267](https://github.com/Xenfo/nx-plugins/pull/267) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+1. 🎉 Merged PR [#202](https://github.com/Xenfo/atomic/pull/202) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+2. 💪 Opened PR [#202](https://github.com/Xenfo/atomic/pull/202) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. ❌ Closed PR [#193](https://github.com/Xenfo/atomic/pull/193) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+4. 🎉 Merged PR [#27](https://github.com/Xenfo/arch/pull/27) in [Xenfo/arch](https://github.com/Xenfo/arch)
+5. 💪 Opened PR [#27](https://github.com/Xenfo/arch/pull/27) in [Xenfo/arch](https://github.com/Xenfo/arch)
 <!--END_SECTION:activity-->
 </details>
 
