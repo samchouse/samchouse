@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/Xenfo/arch/pull/30) in [Xenfo/arch](https://github.com/Xenfo/arch)
-2. 💪 Opened PR [#30](https://github.com/Xenfo/arch/pull/30) in [Xenfo/arch](https://github.com/Xenfo/arch)
-3. 🗣 Commented on [#95](https://github.com/Foxboron/sbctl/issues/95) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
-4. ❗️ Opened issue [#95](https://github.com/Foxboron/sbctl/issues/95) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
-5. 🎉 Merged PR [#29](https://github.com/Xenfo/arch/pull/29) in [Xenfo/arch](https://github.com/Xenfo/arch)
+1. 🎉 Merged PR [#204](https://github.com/Xenfo/atomic/pull/204) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+2. 🎉 Merged PR [#30](https://github.com/Xenfo/arch/pull/30) in [Xenfo/arch](https://github.com/Xenfo/arch)
+3. 💪 Opened PR [#30](https://github.com/Xenfo/arch/pull/30) in [Xenfo/arch](https://github.com/Xenfo/arch)
+4. 🗣 Commented on [#95](https://github.com/Foxboron/sbctl/issues/95) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
+5. ❗️ Opened issue [#95](https://github.com/Foxboron/sbctl/issues/95) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
 <!--END_SECTION:activity-->
 </details>
 
