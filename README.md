@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#204](https://github.com/Xenfo/atomic/pull/204) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. 🎉 Merged PR [#30](https://github.com/Xenfo/arch/pull/30) in [Xenfo/arch](https://github.com/Xenfo/arch)
-3. 💪 Opened PR [#30](https://github.com/Xenfo/arch/pull/30) in [Xenfo/arch](https://github.com/Xenfo/arch)
-4. 🗣 Commented on [#95](https://github.com/Foxboron/sbctl/issues/95) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
-5. ❗️ Opened issue [#95](https://github.com/Foxboron/sbctl/issues/95) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
+1. 🎉 Merged PR [#268](https://github.com/Xenfo/nx-plugins/pull/268) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+2. 🎉 Merged PR [#204](https://github.com/Xenfo/atomic/pull/204) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. 🎉 Merged PR [#30](https://github.com/Xenfo/arch/pull/30) in [Xenfo/arch](https://github.com/Xenfo/arch)
+4. 💪 Opened PR [#30](https://github.com/Xenfo/arch/pull/30) in [Xenfo/arch](https://github.com/Xenfo/arch)
+5. 🗣 Commented on [#95](https://github.com/Foxboron/sbctl/issues/95) in [Foxboron/sbctl](https://github.com/Foxboron/sbctl)
 <!--END_SECTION:activity-->
 </details>
 
