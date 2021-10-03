@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1934](https://github.com/flameshot-org/flameshot/issues/1934) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
-2. ❗️ Opened issue [#1934](https://github.com/flameshot-org/flameshot/issues/1934) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
-3. 🎉 Merged PR [#374](https://github.com/Xenfo/maintainer-bot/pull/374) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-4. 🎉 Merged PR [#375](https://github.com/Xenfo/maintainer-bot/pull/375) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
-5. 🎉 Merged PR [#377](https://github.com/Xenfo/maintainer-bot/pull/377) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
+1. 🎉 Merged PR [#222](https://github.com/Xenfo/atomic/pull/222) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+2. 🎉 Merged PR [#221](https://github.com/Xenfo/atomic/pull/221) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. 🗣 Commented on [#1934](https://github.com/flameshot-org/flameshot/issues/1934) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+4. ❗️ Opened issue [#1934](https://github.com/flameshot-org/flameshot/issues/1934) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+5. 🎉 Merged PR [#374](https://github.com/Xenfo/maintainer-bot/pull/374) in [Xenfo/maintainer-bot](https://github.com/Xenfo/maintainer-bot)
 <!--END_SECTION:activity-->
 </details>
 
