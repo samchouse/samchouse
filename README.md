@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#26](https://github.com/Xenfo/utils/pull/26) in [Xenfo/utils](https://github.com/Xenfo/utils)
-2. ❌ Closed PR [#19](https://github.com/Xenfo/utils/pull/19) in [Xenfo/utils](https://github.com/Xenfo/utils)
-3. ❌ Closed PR [#21](https://github.com/Xenfo/utils/pull/21) in [Xenfo/utils](https://github.com/Xenfo/utils)
-4. ❌ Closed PR [#20](https://github.com/Xenfo/utils/pull/20) in [Xenfo/utils](https://github.com/Xenfo/utils)
-5. ❌ Closed PR [#22](https://github.com/Xenfo/utils/pull/22) in [Xenfo/utils](https://github.com/Xenfo/utils)
+1. 🎉 Merged PR [#24](https://github.com/Xenfo/snow.js/pull/24) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+2. ❌ Closed PR [#26](https://github.com/Xenfo/utils/pull/26) in [Xenfo/utils](https://github.com/Xenfo/utils)
+3. ❌ Closed PR [#19](https://github.com/Xenfo/utils/pull/19) in [Xenfo/utils](https://github.com/Xenfo/utils)
+4. ❌ Closed PR [#21](https://github.com/Xenfo/utils/pull/21) in [Xenfo/utils](https://github.com/Xenfo/utils)
+5. ❌ Closed PR [#20](https://github.com/Xenfo/utils/pull/20) in [Xenfo/utils](https://github.com/Xenfo/utils)
 <!--END_SECTION:activity-->
 </details>
 
