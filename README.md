@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#235](https://github.com/Xenfo/atomic/pull/235) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. 🎉 Merged PR [#236](https://github.com/Xenfo/atomic/pull/236) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-3. 🎉 Merged PR [#237](https://github.com/Xenfo/atomic/pull/237) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-4. 🗣 Commented on [#27](https://github.com/Xenfo/utils/issues/27) in [Xenfo/utils](https://github.com/Xenfo/utils)
-5. 💪 Opened PR [#27](https://github.com/Xenfo/utils/pull/27) in [Xenfo/utils](https://github.com/Xenfo/utils)
+1. 🎉 Merged PR [#27](https://github.com/Xenfo/utils/pull/27) in [Xenfo/utils](https://github.com/Xenfo/utils)
+2. 🎉 Merged PR [#235](https://github.com/Xenfo/atomic/pull/235) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. 🎉 Merged PR [#236](https://github.com/Xenfo/atomic/pull/236) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+4. 🎉 Merged PR [#237](https://github.com/Xenfo/atomic/pull/237) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+5. 🗣 Commented on [#27](https://github.com/Xenfo/utils/issues/27) in [Xenfo/utils](https://github.com/Xenfo/utils)
 <!--END_SECTION:activity-->
 </details>
 
