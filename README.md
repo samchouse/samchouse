@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/Xenfo/snow.js/pull/26) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-2. ❗️ Closed issue [#25](https://github.com/Xenfo/snow.js/issues/25) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-3. 💪 Opened PR [#26](https://github.com/Xenfo/snow.js/pull/26) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-4. 🎉 Merged PR [#24](https://github.com/Xenfo/snow.js/pull/24) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-5. ❌ Closed PR [#26](https://github.com/Xenfo/utils/pull/26) in [Xenfo/utils](https://github.com/Xenfo/utils)
+1. 🗣 Commented on [#27](https://github.com/Xenfo/utils/issues/27) in [Xenfo/utils](https://github.com/Xenfo/utils)
+2. 💪 Opened PR [#27](https://github.com/Xenfo/utils/pull/27) in [Xenfo/utils](https://github.com/Xenfo/utils)
+3. 🎉 Merged PR [#26](https://github.com/Xenfo/snow.js/pull/26) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+4. ❗️ Closed issue [#25](https://github.com/Xenfo/snow.js/issues/25) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+5. 💪 Opened PR [#26](https://github.com/Xenfo/snow.js/pull/26) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
 <!--END_SECTION:activity-->
 </details>
 
