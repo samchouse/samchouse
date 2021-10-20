@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/Xenfo/atomic/pull/241) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. 💪 Opened PR [#241](https://github.com/Xenfo/atomic/pull/241) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-3. 🎉 Merged PR [#240](https://github.com/Xenfo/atomic/pull/240) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-4. 🎉 Merged PR [#41](https://github.com/Xenfo/utils/pull/41) in [Xenfo/utils](https://github.com/Xenfo/utils)
-5. 💪 Opened PR [#41](https://github.com/Xenfo/utils/pull/41) in [Xenfo/utils](https://github.com/Xenfo/utils)
+1. ❗️ Opened issue [#349](https://github.com/expo/turtle/issues/349) in [expo/turtle](https://github.com/expo/turtle)
+2. 🎉 Merged PR [#241](https://github.com/Xenfo/atomic/pull/241) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. 💪 Opened PR [#241](https://github.com/Xenfo/atomic/pull/241) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+4. 🎉 Merged PR [#240](https://github.com/Xenfo/atomic/pull/240) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+5. 🎉 Merged PR [#41](https://github.com/Xenfo/utils/pull/41) in [Xenfo/utils](https://github.com/Xenfo/utils)
 <!--END_SECTION:activity-->
 </details>
 
