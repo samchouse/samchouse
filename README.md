@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#245](https://github.com/Xenfo/atomic/pull/245) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. 🎉 Merged PR [#244](https://github.com/Xenfo/atomic/pull/244) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-3. 🎉 Merged PR [#42](https://github.com/Xenfo/utils/pull/42) in [Xenfo/utils](https://github.com/Xenfo/utils)
-4. 🎉 Merged PR [#317](https://github.com/Xenfo/nx-plugins/pull/317) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-5. 🎉 Merged PR [#43](https://github.com/Xenfo/utils/pull/43) in [Xenfo/utils](https://github.com/Xenfo/utils)
+1. 💪 Opened PR [#45](https://github.com/Xenfo/utils/pull/45) in [Xenfo/utils](https://github.com/Xenfo/utils)
+2. 🎉 Merged PR [#245](https://github.com/Xenfo/atomic/pull/245) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. 🎉 Merged PR [#244](https://github.com/Xenfo/atomic/pull/244) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+4. 🎉 Merged PR [#42](https://github.com/Xenfo/utils/pull/42) in [Xenfo/utils](https://github.com/Xenfo/utils)
+5. 🎉 Merged PR [#317](https://github.com/Xenfo/nx-plugins/pull/317) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
 <!--END_SECTION:activity-->
 </details>
 
