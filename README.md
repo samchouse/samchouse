@@ -4,7 +4,7 @@
 [![Github Followers](https://img.shields.io/github/followers/Xenfo?logo=github&style=for-the-badge)](https://github.com/Xenfo)
 
 ### I'm a Student and a Developer!
-- 🔭 I’m currently working on React Native apps, [Fyles](https://fyles.sh), [Atomic](https://github.com/Xenfo/atomic), and [Utils](https://github.com/Xenfo/utils).
+- 🔭 I’m currently working on [Fyles](https://fyles.sh), [Atomic](https://github.com/Xenfo/atomic), and [Utils](https://github.com/Xenfo/utils).
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about Discord.JS and Discord Akairo
