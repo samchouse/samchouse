@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#340](https://github.com/Xenfo/nx-plugins/pull/340) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-2. 🎉 Merged PR [#344](https://github.com/Xenfo/nx-plugins/pull/344) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-3. 🎉 Merged PR [#252](https://github.com/Xenfo/atomic/pull/252) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-4. 🎉 Merged PR [#343](https://github.com/Xenfo/nx-plugins/pull/343) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-5. 🎉 Merged PR [#339](https://github.com/Xenfo/nx-plugins/pull/339) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+1. ❗️ Opened issue [#98](https://github.com/trivago/prettier-plugin-sort-imports/issues/98) in [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports)
+2. 🎉 Merged PR [#340](https://github.com/Xenfo/nx-plugins/pull/340) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+3. 🎉 Merged PR [#344](https://github.com/Xenfo/nx-plugins/pull/344) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+4. 🎉 Merged PR [#252](https://github.com/Xenfo/atomic/pull/252) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+5. 🎉 Merged PR [#343](https://github.com/Xenfo/nx-plugins/pull/343) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
 <!--END_SECTION:activity-->
 </details>
 
