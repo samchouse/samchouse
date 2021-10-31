@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Xenfo/snow.js/pull/31) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-2. 💪 Opened PR [#31](https://github.com/Xenfo/snow.js/pull/31) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-3. 🎉 Merged PR [#30](https://github.com/Xenfo/snow.js/pull/30) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-4. 💪 Opened PR [#30](https://github.com/Xenfo/snow.js/pull/30) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-5. 🎉 Merged PR [#28](https://github.com/Xenfo/snow.js/pull/28) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+1. 🎉 Merged PR [#64](https://github.com/Xenfo/utils/pull/64) in [Xenfo/utils](https://github.com/Xenfo/utils)
+2. 💪 Opened PR [#64](https://github.com/Xenfo/utils/pull/64) in [Xenfo/utils](https://github.com/Xenfo/utils)
+3. 🎉 Merged PR [#31](https://github.com/Xenfo/snow.js/pull/31) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+4. 💪 Opened PR [#31](https://github.com/Xenfo/snow.js/pull/31) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+5. 🎉 Merged PR [#30](https://github.com/Xenfo/snow.js/pull/30) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
 <!--END_SECTION:activity-->
 </details>
 
