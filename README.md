@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/Xenfo/utils/pull/75) in [Xenfo/utils](https://github.com/Xenfo/utils)
-2. 🎉 Merged PR [#1](https://github.com/Xenfo/hydra/pull/1) in [Xenfo/hydra](https://github.com/Xenfo/hydra)
-3. 💪 Opened PR [#1](https://github.com/Xenfo/hydra/pull/1) in [Xenfo/hydra](https://github.com/Xenfo/hydra)
-4. 🎉 Merged PR [#74](https://github.com/Xenfo/utils/pull/74) in [Xenfo/utils](https://github.com/Xenfo/utils)
-5. 💪 Opened PR [#74](https://github.com/Xenfo/utils/pull/74) in [Xenfo/utils](https://github.com/Xenfo/utils)
+1. 🎉 Merged PR [#1](https://github.com/Xenfo/multer-s3/pull/1) in [Xenfo/multer-s3](https://github.com/Xenfo/multer-s3)
+2. 🎉 Merged PR [#2](https://github.com/Xenfo/multer-s3/pull/2) in [Xenfo/multer-s3](https://github.com/Xenfo/multer-s3)
+3. 🎉 Merged PR [#16](https://github.com/Xenfo/berry/pull/16) in [Xenfo/berry](https://github.com/Xenfo/berry)
+4. 🎉 Merged PR [#76](https://github.com/Xenfo/utils/pull/76) in [Xenfo/utils](https://github.com/Xenfo/utils)
+5. 💪 Opened PR [#76](https://github.com/Xenfo/utils/pull/76) in [Xenfo/utils](https://github.com/Xenfo/utils)
 <!--END_SECTION:activity-->
 </details>
 
