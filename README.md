@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Xenfo/lob/pull/1) in [Xenfo/lob](https://github.com/Xenfo/lob)
-2. 💪 Opened PR [#1](https://github.com/Xenfo/lob/pull/1) in [Xenfo/lob](https://github.com/Xenfo/lob)
-3. 🎉 Merged PR [#362](https://github.com/Xenfo/nx-plugins/pull/362) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-4. 🎉 Merged PR [#360](https://github.com/Xenfo/nx-plugins/pull/360) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-5. 🎉 Merged PR [#364](https://github.com/Xenfo/nx-plugins/pull/364) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+1. 🎉 Merged PR [#31](https://github.com/Xenfo/arch/pull/31) in [Xenfo/arch](https://github.com/Xenfo/arch)
+2. 🎉 Merged PR [#77](https://github.com/Xenfo/utils/pull/77) in [Xenfo/utils](https://github.com/Xenfo/utils)
+3. 🎉 Merged PR [#32](https://github.com/Xenfo/snow.js/pull/32) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+4. 🎉 Merged PR [#1](https://github.com/Xenfo/lob/pull/1) in [Xenfo/lob](https://github.com/Xenfo/lob)
+5. 💪 Opened PR [#1](https://github.com/Xenfo/lob/pull/1) in [Xenfo/lob](https://github.com/Xenfo/lob)
 <!--END_SECTION:activity-->
 </details>
 
