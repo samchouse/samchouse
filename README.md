@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#269](https://github.com/Xenfo/atomic/pull/269) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. 🎉 Merged PR [#31](https://github.com/Xenfo/arch/pull/31) in [Xenfo/arch](https://github.com/Xenfo/arch)
-3. 🎉 Merged PR [#77](https://github.com/Xenfo/utils/pull/77) in [Xenfo/utils](https://github.com/Xenfo/utils)
-4. 🎉 Merged PR [#32](https://github.com/Xenfo/snow.js/pull/32) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
-5. 🎉 Merged PR [#1](https://github.com/Xenfo/lob/pull/1) in [Xenfo/lob](https://github.com/Xenfo/lob)
+1. 🎉 Merged PR [#33](https://github.com/Xenfo/snow.js/pull/33) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+2. 💪 Opened PR [#33](https://github.com/Xenfo/snow.js/pull/33) in [Xenfo/snow.js](https://github.com/Xenfo/snow.js)
+3. 🎉 Merged PR [#269](https://github.com/Xenfo/atomic/pull/269) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+4. 🎉 Merged PR [#31](https://github.com/Xenfo/arch/pull/31) in [Xenfo/arch](https://github.com/Xenfo/arch)
+5. 🎉 Merged PR [#77](https://github.com/Xenfo/utils/pull/77) in [Xenfo/utils](https://github.com/Xenfo/utils)
 <!--END_SECTION:activity-->
 </details>
 
