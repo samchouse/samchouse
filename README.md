@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#521](https://github.com/Xenfo/nx-plugins/pull/521) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-2. 🎉 Merged PR [#522](https://github.com/Xenfo/nx-plugins/pull/522) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-3. 🗣 Commented on [#742](https://github.com/tsujan/Kvantum/issues/742) in [tsujan/Kvantum](https://github.com/tsujan/Kvantum)
-4. 🗣 Commented on [#742](https://github.com/tsujan/Kvantum/issues/742) in [tsujan/Kvantum](https://github.com/tsujan/Kvantum)
-5. ❗️ Opened issue [#742](https://github.com/tsujan/Kvantum/issues/742) in [tsujan/Kvantum](https://github.com/tsujan/Kvantum)
+1. 🎉 Merged PR [#513](https://github.com/Xenfo/nx-plugins/pull/513) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+2. 🎉 Merged PR [#516](https://github.com/Xenfo/nx-plugins/pull/516) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+3. 🎉 Merged PR [#514](https://github.com/Xenfo/nx-plugins/pull/514) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+4. 🎉 Merged PR [#517](https://github.com/Xenfo/nx-plugins/pull/517) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+5. 🎉 Merged PR [#518](https://github.com/Xenfo/nx-plugins/pull/518) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
 <!--END_SECTION:activity-->
 </details>
 
