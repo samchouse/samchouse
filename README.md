@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#556](https://github.com/Xenfo/nx-plugins/pull/556) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-2. ❌ Closed PR [#564](https://github.com/Xenfo/nx-plugins/pull/564) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-3. ❌ Closed PR [#565](https://github.com/Xenfo/nx-plugins/pull/565) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-4. 🎉 Merged PR [#546](https://github.com/Xenfo/nx-plugins/pull/546) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
-5. 🎉 Merged PR [#553](https://github.com/Xenfo/nx-plugins/pull/553) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+1. ❌ Closed PR [#563](https://github.com/Xenfo/nx-plugins/pull/563) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+2. ❌ Closed PR [#562](https://github.com/Xenfo/nx-plugins/pull/562) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+3. ❌ Closed PR [#561](https://github.com/Xenfo/nx-plugins/pull/561) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+4. ❌ Closed PR [#560](https://github.com/Xenfo/nx-plugins/pull/560) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
+5. ❌ Closed PR [#559](https://github.com/Xenfo/nx-plugins/pull/559) in [Xenfo/nx-plugins](https://github.com/Xenfo/nx-plugins)
 <!--END_SECTION:activity-->
 </details>
 
