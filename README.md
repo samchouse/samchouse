@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#544](https://github.com/vercel/turborepo/issues/544) in [vercel/turborepo](https://github.com/vercel/turborepo)
-2. 🗣 Commented on [#3857](https://github.com/yarnpkg/berry/issues/3857) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
-3. 🗣 Commented on [#544](https://github.com/vercel/turborepo/issues/544) in [vercel/turborepo](https://github.com/vercel/turborepo)
-4. 💪 Opened PR [#544](https://github.com/vercel/turborepo/pull/544) in [vercel/turborepo](https://github.com/vercel/turborepo)
-5. 🗣 Commented on [#506](https://github.com/vercel/turborepo/issues/506) in [vercel/turborepo](https://github.com/vercel/turborepo)
+1. 🗣 Commented on [#506](https://github.com/vercel/turborepo/issues/506) in [vercel/turborepo](https://github.com/vercel/turborepo)
+2. 🗣 Commented on [#544](https://github.com/vercel/turborepo/issues/544) in [vercel/turborepo](https://github.com/vercel/turborepo)
+3. 🗣 Commented on [#3857](https://github.com/yarnpkg/berry/issues/3857) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+4. 🗣 Commented on [#544](https://github.com/vercel/turborepo/issues/544) in [vercel/turborepo](https://github.com/vercel/turborepo)
+5. 💪 Opened PR [#544](https://github.com/vercel/turborepo/pull/544) in [vercel/turborepo](https://github.com/vercel/turborepo)
 <!--END_SECTION:activity-->
 </details>
 
