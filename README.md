@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#555](https://github.com/vercel/turborepo/issues/555) in [vercel/turborepo](https://github.com/vercel/turborepo)
-2. 🗣 Commented on [#544](https://github.com/vercel/turborepo/issues/544) in [vercel/turborepo](https://github.com/vercel/turborepo)
+1. 🗣 Commented on [#554](https://github.com/vercel/turborepo/issues/554) in [vercel/turborepo](https://github.com/vercel/turborepo)
+2. 🗣 Commented on [#555](https://github.com/vercel/turborepo/issues/555) in [vercel/turborepo](https://github.com/vercel/turborepo)
 3. 🗣 Commented on [#544](https://github.com/vercel/turborepo/issues/544) in [vercel/turborepo](https://github.com/vercel/turborepo)
-4. 💪 Opened PR [#4](https://github.com/Xenfo/turborepo/pull/4) in [Xenfo/turborepo](https://github.com/Xenfo/turborepo)
-5. ❌ Closed PR [#3](https://github.com/Xenfo/turborepo/pull/3) in [Xenfo/turborepo](https://github.com/Xenfo/turborepo)
+4. 🗣 Commented on [#544](https://github.com/vercel/turborepo/issues/544) in [vercel/turborepo](https://github.com/vercel/turborepo)
+5. 💪 Opened PR [#4](https://github.com/Xenfo/turborepo/pull/4) in [Xenfo/turborepo](https://github.com/Xenfo/turborepo)
 <!--END_SECTION:activity-->
 </details>
 
