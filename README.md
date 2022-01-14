@@ -7,9 +7,9 @@
 - 🔭 I’m currently working on [Fyles](https://fyles.sh), [Atomic](https://github.com/Xenfo/atomic), and [Utils](https://github.com/Xenfo/utils).
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on interesting projects
-- 💬 Ask me about Discord.JS and Discord Akairo
+- 💬 Ask me about Discord.JS
 - 📫 You can reach me at [chouse.samuel@gmail.com](mailto:chouse.samuel@gmail.com)
-- ⚡ Fun fact I used to play the violin
+- ⚡ Fun fact, I used to play the violin
 
 ### Connect with me:
 <img align="center" alt="Xenfo#0001" width="22px" src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" /> Xenfo#0001
@@ -47,5 +47,3 @@
   <img align="center" alt="Xenfo's Github Stats" src="https://github-readme-stats.xenfo.vercel.app/api?username=Xenfo&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff" />
   <img align="center" alt="Xenfo's Top Languages" src="https://github-readme-stats.xenfo.vercel.app/api/top-langs/?username=Xenfo&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff" />
 </details>
-
-[discord]: https://www.discord.gg/hWCzNmd
