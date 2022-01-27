@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#615](https://github.com/vercel/turborepo/issues/615) in [vercel/turborepo](https://github.com/vercel/turborepo)
-2. 🗣 Commented on [#561](https://github.com/vercel/turborepo/issues/561) in [vercel/turborepo](https://github.com/vercel/turborepo)
-3. 🎉 Merged PR [#360](https://github.com/Xenfo/atomic/pull/360) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-4. 🎉 Merged PR [#358](https://github.com/Xenfo/atomic/pull/358) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-5. 🎉 Merged PR [#357](https://github.com/Xenfo/atomic/pull/357) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+1. 🎉 Merged PR [#124](https://github.com/Xenfo/utils/pull/124) in [Xenfo/utils](https://github.com/Xenfo/utils)
+2. 🎉 Merged PR [#363](https://github.com/Xenfo/atomic/pull/363) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
+3. ❗️ Opened issue [#615](https://github.com/vercel/turborepo/issues/615) in [vercel/turborepo](https://github.com/vercel/turborepo)
+4. 🗣 Commented on [#561](https://github.com/vercel/turborepo/issues/561) in [vercel/turborepo](https://github.com/vercel/turborepo)
+5. 🎉 Merged PR [#360](https://github.com/Xenfo/atomic/pull/360) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
 <!--END_SECTION:activity-->
 </details>
 
