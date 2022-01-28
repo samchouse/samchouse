@@ -1,49 +1,32 @@
-## Hi, I'm Samuel - aka Xenfo
+# 💫 About Me:
+* 🔭 I’m currently working on Cosa Mangiamo & Turborepo
+* 👯 I’m looking to collaborate on interesting projects
+* 🌱 I’m currently learning Rust & Go
+* 💬 Ask me about Discord.JS & Turborepo
+* ⚡ Fun fact, I used to play the violin
 
-[![Website](https://img.shields.io/website?label=xenfo.dev&style=for-the-badge&url=https%3A%2F%2Fxenfo.dev)](https://xenfo.dev)
-[![Github Followers](https://img.shields.io/github/followers/Xenfo?logo=github&style=for-the-badge)](https://github.com/Xenfo)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-corsi-house) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12584990) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xenfodev) 
 
-### I'm a Student and a Developer!
-- 🔭 I’m currently working on [Fyles](https://fyles.sh), [Atomic](https://github.com/Xenfo/atomic), and [Utils](https://github.com/Xenfo/utils).
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on interesting projects
-- 💬 Ask me about Discord.JS
-- 📫 You can reach me at [chouse.samuel@gmail.com](mailto:chouse.samuel@gmail.com)
-- ⚡ Fun fact, I used to play the violin
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
-### Connect with me:
-<img align="center" alt="Xenfo#0001" width="22px" src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" /> Xenfo#0001
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Xenfo&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Xenfo&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenfo&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Languages and Tools:
-- <img alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> TypeScript
-- <img alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React
-- <img alt="Node.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.js
-- <img alt="Rust" width="22px" src="https://1.bp.blogspot.com/-Qxtg8B8EEy8/XgBm0Bp1y4I/AAAAAAAAPD0/LdIgBrYPAMQ8VpGV4EBz6Kq9uBgoo1NmQCLcBGAsYHQ/s1600/rust-logo.png" /> Rust
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Xenfo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### Timeline
-- Started coding at age 8
-- Started really getting into JavaScript at age 13
-- Learned TypeScript at age 13 and using it since
-- Finally settled on what I love to code: React Native and web apps
-- Discovered Akairo and I'm loving it
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
+![](https://komarev.com/ghpvc/?username=Xenfo&label=Visitors+Count&color=brightgreen)
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xenfo) 
+
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#364](https://github.com/Xenfo/atomic/pull/364) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-2. 🎉 Merged PR [#124](https://github.com/Xenfo/utils/pull/124) in [Xenfo/utils](https://github.com/Xenfo/utils)
-3. 🎉 Merged PR [#363](https://github.com/Xenfo/atomic/pull/363) in [Xenfo/atomic](https://github.com/Xenfo/atomic)
-4. ❗️ Opened issue [#615](https://github.com/vercel/turborepo/issues/615) in [vercel/turborepo](https://github.com/vercel/turborepo)
-5. 🗣 Commented on [#561](https://github.com/vercel/turborepo/issues/561) in [vercel/turborepo](https://github.com/vercel/turborepo)
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="center" alt="Xenfo's Github Stats" src="https://github-readme-stats.xenfo.vercel.app/api?username=Xenfo&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff" />
-  <img align="center" alt="Xenfo's Top Languages" src="https://github-readme-stats.xenfo.vercel.app/api/top-langs/?username=Xenfo&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff" />
-</details>
