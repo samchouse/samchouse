@@ -4,6 +4,7 @@
 * 🌱 I’m currently learning Rust & Go
 * 💬 Ask me about Discord.JS & Turborepo
 * ⚡ Fun fact, I used to play the violin
+* 🏢 Full Stack Developer at Aheeva
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-corsi-house) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12584990) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xenfodev) 
