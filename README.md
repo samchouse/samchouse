@@ -18,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenfo&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Xenfo&theme=catppuccin&no-frame=true&no-bg=false&margin-w=4&margin-h=4)
+![](https://github-profile-trophy-teal.vercel.app/?username=Xenfo&theme=catppuccin&no-frame=true&no-bg=false&margin-w=4&margin-h=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)
