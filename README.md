@@ -50,7 +50,7 @@
 
 ## 📊 Stats
 
-<div align="left">
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Xenfo&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_radius=10"
     alt="GitHub Stats"
@@ -58,7 +58,6 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Xenfo&hide_border=true&background=1e1e2e&currStreakNum=cdd6f4&sideNums=D9E0EE&currStreakLabel=cdd6f4&sideLabels=cdd6f4&ring=94e2d5&fire=cba6f7&dates=a6adc8&border_radius=10"
     alt="GitHub Commit Stats"
-    align="right"
   />
 </div>
 <div align="center">
