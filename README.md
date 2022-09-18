@@ -1,7 +1,7 @@
 # Hey there 👋
 
 <div align="left">
-  <a href="https://stackoverflow.com/users/12584990" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/samuel-corsi-house" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="LinkedIn"
@@ -13,7 +13,7 @@
       alt="Twitter"
     />
   </a>
-  <a href="https://linkedin.com/in/samuel-corsi-house" target="_blank" rel="noreferrer">
+  <a href="https://stackoverflow.com/users/12584990" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"
       alt="LinkedIn"
