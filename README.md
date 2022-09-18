@@ -46,7 +46,7 @@
 
 ## 💻 Favorite Tools
 
-![Favorites](https://skillicons.dev/icons?i=typescript,rust,go,nextjs,tailwind,docker,vercel)
+![Favorites](https://skillicons.dev/icons?i=typescript,rust,go,prisma,nextjs,tailwind,docker,vercel)
 
 ## 📊 Stats
 
