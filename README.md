@@ -32,10 +32,10 @@
 
 ## 💫 I'm Samuel aka Xenfo
 
-- 🔭 I’m currently working on Cosa Mangiamo, a recipe app
+- 🔭 I’m currently working on Cosa Mangiamo, a fitness app
 - 🌱 I’m learning Rust
-- ⚡ Fun fact, I used to play the violin
 - 🏢 Full Stack Developer at Aheeva
+- ⚡ Fun fact, I used to play the violin
 
 <details>
   <summary>💰 You can help me by donating or sponsoring</summary>
