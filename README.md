@@ -22,7 +22,7 @@
 
   <a href="https://app.daily.dev/Xenfo" target="_blank" rel="noreferrer">
     <img
-      src="https://api.daily.dev/devcards/58a19e7d8d2346238ec398d4ed088232.png"
+      src="https://api.daily.dev/devcards/v2/5zRbSNcYOP60PVmlUr8pJ.png?type=default&r=ktv"
       alt="Daily Dev Card"
       width="256"
       align="right"
