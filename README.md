@@ -20,7 +20,7 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/Xenfo" target="_blank" rel="noreferrer">
+  <a href="https://app.daily.dev/xenfo" target="_blank" rel="noreferrer">
     <img
       src="https://api.daily.dev/devcards/v2/5zRbSNcYOP60PVmlUr8pJ.png?type=default&r=ktv"
       alt="Daily Dev Card"
