@@ -32,8 +32,8 @@
 
 ## 💫 I'm Samuel aka Xenfo
 
-- 🔭 I’m currently working on Cosa Mangiamo, a fitness app
-- 🌱 I’m learning Rust
+- 🔭 I’m currently working on Adrastos, a Backend-as-a-Service (BaaS)
+- 🌱 I’m trying to learn thread safety in Rust
 - 🏢 Full Stack Developer at Aheeva
 - ⚡ Fun fact, I used to play the violin
 
