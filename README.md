@@ -52,18 +52,18 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Xenfo&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=222436&text_color=c8d3f5&icon_color=86e1fc&title_color=82aaff&border_radius=10"
+    src="https://grs-amber.vercel.app/api?username=samchouse&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=222436&text_color=c8d3f5&icon_color=86e1fc&title_color=82aaff&border_radius=10"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Xenfo&hide_border=true&background=222436&currStreakNum=c8d3f5&sideNums=c8d3f5&currStreakLabel=c8d3f5&sideLabels=c8d3f5&ring=82aaff&fire=86e1fc&dates=a9b8e8&border_radius=10"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samchouse&hide_border=true&background=222436&currStreakNum=c8d3f5&sideNums=c8d3f5&currStreakLabel=c8d3f5&sideLabels=c8d3f5&ring=82aaff&fire=86e1fc&dates=a9b8e8&border_radius=10"
     alt="GitHub Commit Stats"
   />
 </div>
 <div align="center">
   <a href="https://wakatime.com/@Xenfo" target="_blank" rel="noreferrer">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Xenfo&langs_count=5&hide_border=true&bg_color=222436&text_color=c8d3f5&title_color=82aaff&border_radius=10"
+      src="https://grs-amber.vercel.app/api/wakatime?username=Xenfo&langs_count=5&hide_border=true&bg_color=222436&text_color=c8d3f5&title_color=82aaff&border_radius=10"
       alt="WakaTime Stats"
     />
   </a>
