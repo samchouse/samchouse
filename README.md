@@ -1,6 +1,6 @@
 # Hey there 👋
 
-<div align="left">
+<div>
   <a href="https://linkedin.com/in/samuel-corsi-house" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"
@@ -17,15 +17,6 @@
     <img
       src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"
       alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://app.daily.dev/xenfo" target="_blank" rel="noreferrer">
-    <img
-      src="https://api.daily.dev/devcards/v2/5zRbSNcYOP60PVmlUr8pJ.png?type=default&r=ktv"
-      alt="Daily Dev Card"
-      width="256"
-      align="right"
     />
   </a>
 </div>
@@ -52,11 +43,11 @@
 
 <div align="center">
   <img
-    src="https://grs-amber.vercel.app/api?username=samchouse&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=222436&text_color=c8d3f5&icon_color=86e1fc&title_color=82aaff&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api?username=samchouse&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=222436&text_color=c8d3f5&icon_color=86e1fc&title_color=82aaff&border_radius=10"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=samchouse&hide_border=true&background=222436&currStreakNum=c8d3f5&sideNums=c8d3f5&currStreakLabel=c8d3f5&sideLabels=c8d3f5&ring=82aaff&fire=86e1fc&dates=a9b8e8&border_radius=10"
+    src="https://streak-stats.demolab.com/?user=samchouse&hide_border=true&background=222436&currStreakNum=c8d3f5&sideNums=c8d3f5&currStreakLabel=c8d3f5&sideLabels=c8d3f5&ring=82aaff&fire=86e1fc&dates=a9b8e8&border_radius=10"
     alt="GitHub Commit Stats"
   />
 </div>
