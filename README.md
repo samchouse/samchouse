@@ -54,7 +54,7 @@
 <div align="center">
   <a href="https://wakatime.com/@Xenfo" target="_blank" rel="noreferrer">
     <img
-      src="https://grs-amber.vercel.app/api/wakatime?username=Xenfo&langs_count=5&hide_border=true&bg_color=222436&text_color=c8d3f5&title_color=82aaff&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Xenfo&langs_count=5&hide_border=true&bg_color=222436&text_color=c8d3f5&title_color=82aaff&border_radius=10"
       alt="WakaTime Stats"
     />
   </a>
