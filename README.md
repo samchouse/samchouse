@@ -23,9 +23,9 @@
 
 ## 💫 I'm Samuel aka Xenfo
 
-- 🔭 I’m currently working on Adrastos, a Backend-as-a-Service (BaaS)
+- 🔭 I’m currently working on Bolt, a screentime password locker
 - 🌱 I’m trying to learn thread safety in Rust
-- 🏢 Full Stack Developer at Aheeva
+- 🏢 Co-Founder and CTO at Coalesc
 - ⚡ Fun fact, I used to play the violin
 
 <details>
