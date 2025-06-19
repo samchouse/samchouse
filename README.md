@@ -23,7 +23,7 @@
 
 ## 💫 I'm Samuel aka Xenfo
 
-- 🔭 I’m currently working on Bolt, a screentime password locker
+- 🔭 I’m currently working on BoltD, a screentime password locker
 - 🌱 I’m trying to learn thread safety in Rust
 - 🏢 Co-Founder and CTO at Coalesc
 - ⚡ Fun fact, I used to play the violin
